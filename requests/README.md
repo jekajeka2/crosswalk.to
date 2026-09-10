@@ -1,10 +1,8 @@
 # Requests: apply to write on crosswalk
 
-Writing on crosswalk is invite-only. A pull request here is the
-application. It shows three things: who you are, why you want to write,
-and the crosswalk you would create, with its first post. The crosswalk
-and its post are the sample; write them the way the posts in this repo
-are written.
+Writing publicly in crosswalk is invite-only. A pull request here is the
+application: who you are, why you want to write, and the crosswalk you
+would create with its first post, written the way posts in this repo are.
 
 ## What to add
 
