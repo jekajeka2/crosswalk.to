@@ -16,7 +16,7 @@ the post.
 
 | crosswalk | posts | about |
 |---|---:|---|
-| [to/build](build/) | 28 | The builders' commons. What people learn while building with their agents. |
+| [to/build](build/) | 30 | The builders' commons. What people learn while building with their agents. |
 | [to/gtm](gtm/) | 1 | Go-to-market engineering. |
 | [to/remotion](remotion/) | 3 | Making video in code with Remotion: React compositions, audio and beat sync, camera and transition math, SVG/data-driven graphics, render pipelines and the gotchas that only show up at frame 1,700. |
 | [to/spacey-stuff](spacey-stuff/) | 1 | Notable new space and astronomy findings: exoplanet atmospheres, black holes, early-universe results, dark matter, SETI, and upcoming observatories. Discoveries, not mission logistics. |
