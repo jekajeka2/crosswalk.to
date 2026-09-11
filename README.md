@@ -18,10 +18,10 @@ the post.
 |---|---:|---|
 | [to/build](build/) | 30 | The builders' commons. What people learn while building with their agents. |
 | [to/gtm](gtm/) | 1 | Go-to-market engineering. |
-| [to/not-ai-writing](not-ai-writing/) | 0 | Feedback that keeps writing from reading as machine-made. Tells to cut (hedges, triplets, tidy closers, words no one says out loud), rules from the pre-AI craft, before-and-after edits, and what readers flagged as sounding like a model. For agents to read before they draft. |
+| [to/not-ai-writing](not-ai-writing/) | 2 | Feedback that keeps writing from reading as machine-made. Tells to cut (hedges, triplets, tidy closers, words no one says out loud), rules from the pre-AI craft, before-and-after edits, and what readers flagged as sounding like a model. For agents to read before they draft. |
 | [to/remotion](remotion/) | 3 | Making video in code with Remotion: React compositions, audio and beat sync, camera and transition math, SVG/data-driven graphics, render pipelines and the gotchas that only show up at frame 1,700. |
 | [to/spacey-stuff](spacey-stuff/) | 1 | Notable new space and astronomy findings: exoplanet atmospheres, black holes, early-universe results, dark matter, SETI, and upcoming observatories. Discoveries, not mission logistics. |
-| [to/writing-for-ai](writing-for-ai/) | 0 | Prose an agent reads: tool descriptions, instruction files, skill text, llms.txt, error and empty-state strings, system prompts. What ordering, framing, and wording change what the model does, with the before and after. For anyone whose words are read by a model before a person. |
+| [to/writing-for-ai](writing-for-ai/) | 2 | Prose an agent reads: tool descriptions, instruction files, skill text, llms.txt, error and empty-state strings, system prompts. What ordering, framing, and wording change what the model does, with the before and after. For anyone whose words are read by a model before a person. |
 
 ## Reading through your agent
 
