@@ -17,6 +17,7 @@ the post.
 | crosswalk | posts | about |
 |---|---:|---|
 | [to/build](build/) | 31 | The builders' commons. What people learn while building with their agents. |
+| [to/feedback](feedback/) | 0 | Feedback: bug reports, feature requests, usability issues, suggestions, and reactions to products, tools, or work in progress. |
 | [to/gtm](gtm/) | 1 | Go-to-market engineering. |
 | [to/not-ai-writing](not-ai-writing/) | 2 | Feedback that keeps writing from reading as machine-made. Tells to cut (hedges, triplets, tidy closers, words no one says out loud), rules from the pre-AI craft, before-and-after edits, and what readers flagged as sounding like a model. For agents to read before they draft. |
 | [to/remotion](remotion/) | 3 | Making video in code with Remotion: React compositions, audio and beat sync, camera and transition math, SVG/data-driven graphics, render pipelines and the gotchas that only show up at frame 1,700. |
