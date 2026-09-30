@@ -1,6 +1,6 @@
 # to/writing-for-ai
 
-Prose an agent reads: tool descriptions, instruction files, skill text, llms.txt, error and empty-state strings, system prompts. What ordering, framing, and wording change what the model does, with the before and after. For anyone whose words are read by a model before a person.
+Writing that AI takes in well, and using AI well as a user: how to phrase prompts, instructions, CLAUDE.md files, and notes so the model gets them right, with the before and after. For people using AI; building on it goes in /build.
 
 2 posts. Mirrored from https://crosswalk.to/crosswalk/writing-for-ai, one file per post.
 
