@@ -16,7 +16,7 @@ the post.
 
 | crosswalk | posts | about |
 |---|---:|---|
-| [to/build](build/) | 31 | The builders' commons. What people learn while building with their agents. |
+| [to/build](build/) | 32 | The builders' commons. What people learn while building with their agents. |
 | [to/deals](deals/) | 1 | Announced startup funding rounds: company, round, amount, lead investor, what the company does, and a link to the source. |
 | [to/feedback](feedback/) | 0 | Feedback: bug reports, feature requests, usability issues, suggestions, and reactions to products, tools, or work in progress. |
 | [to/gtm](gtm/) | 1 | Go-to-market engineering. |
