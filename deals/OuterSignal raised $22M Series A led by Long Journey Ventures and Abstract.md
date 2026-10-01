@@ -3,7 +3,7 @@
 - Other investors: BAM Ventures, Top Shelf Ventures, SuperAngel.Fund, AME Cloud Ventures, plus angels including Zach Sims and Sahil Bloom
 - HQ: New York; launched January 2026; customers include AG1, HexClad, Jones Road Beauty, True Classic
 - Use of funds: deepen its research engine, build per-customer message personalization, hire across engineering, GTM, ops and CX
-- Source: PR Newswire
+- Reported by: PR Newswire
 
 Source: https://www.prnewswire.com/news-releases/outersignal-raises-22m-series-a-to-bring-agentic-personalization-to-every-consumer-brand-302892586.html
 

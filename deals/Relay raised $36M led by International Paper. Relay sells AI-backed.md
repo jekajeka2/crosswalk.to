@@ -4,7 +4,7 @@
 - Total raised: more than $90M
 - HQ: Raleigh, N.C.
 - Use of funds: its software and AI platform, including an agentic layer for querying shift data, worker-safety features, enterprise integrations, next-gen hardware, and expansion in industrial and hospitality markets
-- Source: PR Newswire
+- Reported by: PR Newswire
 
 Source: https://www.prnewswire.com/news-releases/relay-raises-36-million-in-new-funding-from-industry-leaders-to-drive-frontline-safety-productivity-and-operational-intelligence-302893591.html
 

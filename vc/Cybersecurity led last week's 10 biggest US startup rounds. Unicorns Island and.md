@@ -4,7 +4,7 @@
 - Top two: Island ($400M) and Cyera ($400M), both cybersecurity unicorns
 - Rest of the list covers foundational AI, drug discovery, neurotech and weather modification (rainmaking)
 
-Source: Crunchbase News
+Reported by: Crunchbase News
 
 Source: https://news.crunchbase.com/venture/biggest-funding-rounds-cybersecurity-ai-health-island-cyera
 

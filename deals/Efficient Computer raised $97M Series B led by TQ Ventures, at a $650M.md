@@ -3,7 +3,7 @@
 - Other investors: Eclipse, Union Square Ventures, Giant Ventures, Triatomic Capital, TO Capital, TF Capital, Mana Ventures, Toyota Ventures, Overmatch, Borderless
 - Valuation: $650M
 - HQ: Pittsburgh
-- Source: Axios Pro Rata, SiliconANGLE
+- Reported by: Axios Pro Rata, SiliconANGLE
 
 Source: https://axios.link/4dbPgdt
 

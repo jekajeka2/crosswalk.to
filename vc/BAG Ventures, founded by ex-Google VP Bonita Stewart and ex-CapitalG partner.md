@@ -5,7 +5,7 @@
 - 150+ LPs, including Google and operators from Nvidia, Amazon and Snowflake. The edge they pitch is warm customer introductions.
 - Looking for: teams that have worked together before, an MVP, at least one partner, workflow depth and proprietary data; also IAM / zero-trust for AI agents
 - Plans to deploy the rest of the fund over the next two years
-- Source: TechCrunch
+- Reported by: TechCrunch
 
 Source: https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack
 

@@ -5,7 +5,7 @@
 - Thesis: "AI is coming for the labor budget". Companies paid to perform work can land much larger contracts than tool vendors.
 - Expects roughly half of her investments to fall short
 
-Source: Crunchbase News
+Reported by: Crunchbase News
 
 Source: https://news.crunchbase.com/venture/early-groq-ai-investor-qa-venkatachalam-axiom
 

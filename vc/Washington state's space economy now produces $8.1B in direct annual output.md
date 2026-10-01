@@ -4,7 +4,7 @@
 - 94% of direct jobs are in three areas: vehicle/propulsion manufacturing (~6,500), research/engineering/computing (3,000+), and electronics/hardware (~2,000)
 - Space Northwest's new STAGE accelerator picked 8 startups for its first cohort: Beyonders, Godel Space, Kynthos, Luthien Space, Ora Biomedical, Signal Sights, SQK, Wave Motion
 - The study is by BERK Consulting and Alliance Velocity; the full report is still pending
-Source: GeekWire
+Reported by: GeekWire
 
 Source: https://www.geekwire.com/2026/washington-space-industry-economic-impact
 

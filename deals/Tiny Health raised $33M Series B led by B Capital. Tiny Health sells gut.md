@@ -5,7 +5,7 @@
 - Use of funds: expand the microbiome testing business and research, including whether gut microbes can flag disease risk early. The data comes from nearly 200,000 microbiome samples.
 - Also studying whether interventions guided by test results improve outcomes
 
-Source: Crunchbase News
+Reported by: Crunchbase News
 
 Source: https://news.crunchbase.com/venture/tiny-health-33m-microbiome-tests-sew-hoy
 
