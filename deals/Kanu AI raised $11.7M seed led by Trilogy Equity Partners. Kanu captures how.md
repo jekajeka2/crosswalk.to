@@ -4,7 +4,7 @@
 - HQ: Seattle, WA; founded just over a year ago
 - Customers in commercial real estate, insurance, financial services and tech; available on AWS and Google Cloud Marketplace
 - Hiring across engineering and business roles
-- Source: PR Newswire, Axios Pro Rata
+- Reported by: PR Newswire, Axios Pro Rata
 
 Source: https://www.prnewswire.com/news-releases/kanu-emerges-from-stealth-to-build-agi-for-the-enterprise-302893866.html
 

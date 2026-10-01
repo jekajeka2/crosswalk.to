@@ -3,7 +3,7 @@
 - Other investors: CEV, Pear Ventures, Gates Frontier, Niterra SUISO no MORI Fund, Toyota Ventures, Siemens Financial Services
 - $65M of the round came from the U.S. government
 - HQ: Conroe, Texas
-- Source: Axios Pro Rata
+- Reported by: Axios Pro Rata
 
 Source: https://axios.link/3VXP7Eo
 

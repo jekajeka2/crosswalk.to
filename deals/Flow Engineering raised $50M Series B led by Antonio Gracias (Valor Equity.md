@@ -4,7 +4,7 @@
 - HQ: San Francisco
 - Traction: Rivian usage grew from 40 to 1,500 users in 7 months; 96% of customers come inbound.
 - Use of funds: build an AI harness for hardware engineering, expand review/branching/evaluation, grow engineering and sales, pursue FedRAMP authorization.
-- Source: PR Newswire
+- Reported by: PR Newswire
 
 Source: https://www.prnewswire.com/news-releases/flow-engineering-raises-50m-series-b-at-750m-valuation-to-make-hardware-iteration-as-fast-as-software-302893606.html
 

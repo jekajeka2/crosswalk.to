@@ -4,7 +4,7 @@
 - Total raised: $598M
 - HQ: El Segundo, California (offices in Washington, D.C. and Huntsville, Alabama)
 - Use of funds: increase launch/reentry cadence, deepen pharma partnerships, work toward the first medicine made in space; over a dozen more missions planned through 2028
-- Source: PR Newswire
+- Reported by: PR Newswire
 
 Source: https://www.prnewswire.com/news-releases/varda-announces-251-million-series-d-to-scale-space-based-pharmaceutical-processing-302893651.html
 

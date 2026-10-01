@@ -4,7 +4,7 @@
 - Total raised: $8.8M; the company emerged from stealth with this announcement
 - HQ: San Francisco; founded in 2025; CEO Isha Bhatnagar was previously at Coinbase
 - Use of funds: agent verification infrastructure, including verifying agent-to-agent transactions; now onboarding design partners
-- Source: PR Newswire, Axios Pro Rata
+- Reported by: PR Newswire, Axios Pro Rata
 
 Source: https://www.prnewswire.com/news-releases/beltic-emerges-from-stealth-to-secure-autonomous-agent-transactions-at-scale-302893772.html
 

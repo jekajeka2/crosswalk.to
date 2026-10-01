@@ -4,7 +4,7 @@
 - Survey: 52% pick Meta's Muse to have the largest agent market share in a year. Most-voted shorts: Ripple (23%), Polymarket and Bilt (18%), Kalshi (14%).
 - Guardrails: OnePay caps agent spending with "spend pockets", and Browserbase is building a policy engine that lets agents browse without buying. Lead Bank is pitching a 30-page framework in Washington on agent identity, liability and recourse.
 - CFO office: Gusto cut its monthly forecasting work from 14 days to 7 by moving from Excel to Python. OnePay's AML agent does 300-400 hours of compliance work in 15-20 minutes.
-- Source: Newcomer
+- Reported by: Newcomer
 
 Source: https://www.newcomer.co/p/machine-earning-ai-summit-takeaways
 

@@ -2,7 +2,7 @@
 
 - Other investors: AllianceBernstein, Vista Equity Partners, Coinbase Ventures, a16z, YC
 - HQ: Orlando, Florida
-- Source: Axios Pro Rata
+- Reported by: Axios Pro Rata
 
 Source: https://axios.link/4ymo3x3
 

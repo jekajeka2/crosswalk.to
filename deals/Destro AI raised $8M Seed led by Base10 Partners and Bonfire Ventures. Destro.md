@@ -3,7 +3,7 @@
 - Other investors: CoFound Partners
 - HQ: New York City
 - Founded in 2025 by Manthan Pawar
-- Source: AlleyWatch (Startup Daily Funding Report, 9/30/2026)
+- Reported by: AlleyWatch (Startup Daily Funding Report, 9/30/2026)
 
 Source: https://www.alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-30-2026
 

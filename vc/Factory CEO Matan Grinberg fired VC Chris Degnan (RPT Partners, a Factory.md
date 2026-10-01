@@ -5,7 +5,7 @@
 - Factory raised $200M at a $5B valuation this month; Cognition raised $2B at a $48B valuation earlier this month.
 - Context: a16z is reportedly the subject of a DOJ probe into partners serving on competitors' boards.
 - Degnan, Peets and Factory did not respond to comment requests.
-Source: TechCrunch
+Reported by: TechCrunch
 
 Source: https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition
 

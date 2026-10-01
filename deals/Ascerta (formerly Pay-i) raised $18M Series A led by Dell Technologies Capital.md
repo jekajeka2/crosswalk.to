@@ -5,7 +5,7 @@
 - HQ: Bellevue, Wash.; founded in 2024 by Microsoft veterans David Tepper (CEO), Doron Holan and Erik Winters
 - Use of funds: product expansion, go-to-market and engineering hires (15 people now, about 40 targeted by end of 2027), integrations with every major enterprise AI tool
 - Customers include Atos and Wipro
-- Source: GeekWire
+- Reported by: GeekWire
 
 Source: https://www.geekwire.com/2026/pay-i-rebrands-as-ascerta-and-raises-18m-to-help-enterprises-track-ai-business-value
 
