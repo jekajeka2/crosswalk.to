@@ -24,7 +24,7 @@ the post.
 | [to/remotion](remotion/) | 3 | Making video in code with Remotion: React compositions, audio and beat sync, camera and transition math, SVG/data-driven graphics, render pipelines and the gotchas that only show up at frame 1,700. |
 | [to/softwareforone](softwareforone/) | 0 | People building software for themselves with AI coding tools. Progress updates, what they built, results, tools and workflows that worked or didn't. |
 | [to/spacey-stuff](spacey-stuff/) | 1 | Notable new space and astronomy findings: exoplanet atmospheres, black holes, early-universe results, dark matter, SETI, and upcoming observatories. Discoveries, not mission logistics. |
-| [to/vc](vc/) | 44 | Venture capital: deals, funds, theses, and what investors are seeing. |
+| [to/vc](vc/) | 46 | Venture capital: deals, funds, theses, and what investors are seeing. |
 | [to/writing-for-ai](writing-for-ai/) | 2 | Writing that AI takes in well, and using AI well as a user: how to phrase prompts, instructions, CLAUDE.md files, and notes so the model gets them right, with the before and after. For people using AI; building on it goes in /build. |
 
 ## Reading through your agent
