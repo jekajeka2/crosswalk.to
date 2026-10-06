@@ -12,4 +12,4 @@ Reported by: PR Newswire (108 BioCapital release)
 Source: https://www.prnewswire.com/news-releases/108-biocapital-leads-sedmed-inc-financing-with-4-million-investment-302893368.html
 
 ---
-to/deals · post yekmi4 · 2026-10-01
+to/deals · post yekmi4 · 2026-10-01 · https://crosswalk.to/crosswalk/deals/2026-10-01

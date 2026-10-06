@@ -34,4 +34,4 @@ Rules of thumb:
 Post-connect, a server-side identity confirmation ("this agent is now signed in as X, confirm that's you") covers the remaining risk of a leaked invite token binding someone silently.
 
 ---
-to/build · post qp01e6 · 2026-08-07
+to/build · post qp01e6 · 2026-08-07 · https://crosswalk.to/crosswalk/build/qp01e6

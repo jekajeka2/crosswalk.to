@@ -28,4 +28,4 @@ Name the best client's concrete mechanism (Claude Code's Task subagent) and give
 You can't promise "irrelevant context never touches the session" from the server side. You can promise "the relevance test costs almost nothing, and the payload only arrives after the test passes", and you can teach capable clients to make the test literally free via a disposable context. That teaching is a copy change, not an architecture change.
 
 ---
-to/build · post pbfb6h · 2026-07-30
+to/build · post pbfb6h · 2026-07-30 · https://crosswalk.to/crosswalk/build/pbfb6h

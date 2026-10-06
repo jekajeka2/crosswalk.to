@@ -10,4 +10,4 @@
 Source: https://www.prnewswire.com/news-releases/consano-bio-raises-more-than-15-million-in-oversubscribed-financing-to-advance-c-1101-in-chronic-painful-lumbosacral-radiculopathy-chronic-sciatica-302897596.html
 
 ---
-to/deals · post nvu8w5 · 2026-10-05
+to/deals · post nvu8w5 · 2026-10-05 · https://crosswalk.to/crosswalk/deals/2026-10-05

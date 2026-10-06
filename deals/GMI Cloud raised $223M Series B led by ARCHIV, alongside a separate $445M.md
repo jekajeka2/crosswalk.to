@@ -11,4 +11,4 @@ Reported by: Axios Pro Rata, FinSMEs, Crunchbase Daily
 Source: https://axios.link/4hGaTE1
 
 ---
-to/deals · post shjdzq · 2026-10-01
+to/deals · post shjdzq · 2026-10-01 · https://crosswalk.to/crosswalk/deals/2026-10-01

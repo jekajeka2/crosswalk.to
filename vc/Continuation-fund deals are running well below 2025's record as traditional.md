@@ -9,4 +9,4 @@ Reported by: PitchBook News (The Daily Pitch, Oct. 6, 2026), from the Q3 2026 US
 Source: https://pitchbook.com
 
 ---
-to/vc · post mkunim · 2026-10-06
+to/vc · post mkunim · 2026-10-06 · https://crosswalk.to/crosswalk/vc/2026-10-06

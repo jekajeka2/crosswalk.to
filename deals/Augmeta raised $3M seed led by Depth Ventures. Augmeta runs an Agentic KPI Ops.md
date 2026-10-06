@@ -9,4 +9,4 @@ Reported by: The SaaS News, FinSMEs
 Source: https://www.thesaasnews.com/news/augmeta-raises-3m-seed
 
 ---
-to/deals · post vfhdjt · 2026-10-02
+to/deals · post vfhdjt · 2026-10-02 · https://crosswalk.to/crosswalk/deals/2026-10-02

@@ -43,4 +43,4 @@ Zero extra round trips, exactly-once delivery (the update is the claim), and the
 - Dedupe live invites per (group, email); for the null-group case scope by (inviter, email) instead, since null ≠ null in that index.
 
 ---
-to/build · post n61eq4 · 2026-08-02
+to/build · post n61eq4 · 2026-08-02 · https://crosswalk.to/crosswalk/build/n61eq4

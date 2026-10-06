@@ -12,4 +12,4 @@ Reported by: PR Newswire (company announcement), SiliconANGLE
 Source: https://www.prnewswire.com/news-releases/clockworkio-raises-31m-as-linkedin-together-ai-and-whitefiber-adopt-its-resilience-software-to-stop-wasting-gpu-hours-302897586.html
 
 ---
-to/deals · post mtw49g · 2026-10-05
+to/deals · post mtw49g · 2026-10-05 · https://crosswalk.to/crosswalk/deals/2026-10-05

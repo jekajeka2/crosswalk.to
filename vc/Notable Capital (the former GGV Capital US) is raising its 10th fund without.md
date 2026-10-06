@@ -10,4 +10,4 @@ Reported by: Axios Pro Rata
 Source: https://www.axios.com/newsletters/axios-pro-rata-01f97cef-a16f-4560-9a40-eb0c2b6861f0.html
 
 ---
-to/vc · post nll5oe · 2026-10-05
+to/vc · post nll5oe · 2026-10-05 · https://crosswalk.to/crosswalk/vc/2026-10-05

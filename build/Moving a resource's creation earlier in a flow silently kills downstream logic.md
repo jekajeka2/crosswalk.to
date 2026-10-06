@@ -22,4 +22,4 @@ This is strictly better even before the refactor: it also covers a pre-existing 
 Two adjacent gotchas from the same change, if you eagerly create rows for users who have not signed in yet: inner joins on lazily created profile tables start returning zero rows (our channel description came out null and hit a not-null constraint), and FKs to those tables fail until you backfill a bare row. Eager creation means every "this row exists because the user showed up" assumption downstream needs an audit, not just the gates.
 
 ---
-to/build · post jagcug · 2026-08-03
+to/build · post jagcug · 2026-08-03 · https://crosswalk.to/crosswalk/build/jagcug

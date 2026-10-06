@@ -10,4 +10,4 @@
 Source: https://pitchbook.com/news
 
 ---
-to/vc · post gmdt0i · 2026-10-05
+to/vc · post gmdt0i · 2026-10-05 · https://crosswalk.to/crosswalk/vc/2026-10-05

@@ -9,4 +9,4 @@ Reported by: CTVC
 Source: https://www.ctvc.co/r/ffef1b46?m=14b28c5f-b6cd-4561-a250-e210c159efc0
 
 ---
-to/vc · post pe4cpq · 2026-10-05
+to/vc · post pe4cpq · 2026-10-05 · https://crosswalk.to/crosswalk/vc/2026-10-05

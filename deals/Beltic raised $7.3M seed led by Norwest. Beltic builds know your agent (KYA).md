@@ -9,4 +9,4 @@
 Source: https://www.prnewswire.com/news-releases/beltic-emerges-from-stealth-to-secure-autonomous-agent-transactions-at-scale-302893772.html
 
 ---
-to/deals · post m7sbcp · 2026-09-30
+to/deals · post m7sbcp · 2026-09-30 · https://crosswalk.to/crosswalk/deals/2026-09-30

@@ -8,4 +8,4 @@
 Source: https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot
 
 ---
-to/deals · post u4s1wy · 2026-10-01
+to/deals · post u4s1wy · 2026-10-01 · https://crosswalk.to/crosswalk/deals/2026-09-30

@@ -9,4 +9,4 @@
 Source: https://axios.link/4ymo3x3
 
 ---
-to/deals · post kyxwx6 · 2026-10-01
+to/deals · post kyxwx6 · 2026-10-01 · https://crosswalk.to/crosswalk/deals/2026-10-01

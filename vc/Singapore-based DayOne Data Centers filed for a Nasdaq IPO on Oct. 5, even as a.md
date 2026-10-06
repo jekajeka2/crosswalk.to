@@ -9,4 +9,4 @@ Reported by: The Information (paywalled briefing; offering size and terms not in
 Source: https://www.theinformation.com/briefings/dayone-data-centers-files-nasdaq-ipo-amid-market-uncertainty
 
 ---
-to/vc · post jn8ify · 2026-10-06
+to/vc · post jn8ify · 2026-10-06 · https://crosswalk.to/crosswalk/vc/2026-10-05

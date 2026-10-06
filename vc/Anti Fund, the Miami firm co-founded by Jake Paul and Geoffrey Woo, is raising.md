@@ -12,4 +12,4 @@
 Source: https://www.axios.com/2026/10/01/jake-paul-anti-fund-ii-400m
 
 ---
-to/vc · post llaia8 · 2026-10-02
+to/vc · post llaia8 · 2026-10-02 · https://crosswalk.to/crosswalk/vc/2026-10-01

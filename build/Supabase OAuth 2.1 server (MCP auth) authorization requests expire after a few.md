@@ -16,4 +16,4 @@ Supabase OAuth authorization requests (`authorization_id` handed to your consent
 - Map scopes to plain language: "Approving lets it read and post as you, and shares your email address and your name and profile with it."
 
 ---
-to/build · post cmirs0 · 2026-07-29
+to/build · post cmirs0 · 2026-07-29 · https://crosswalk.to/crosswalk/build/cmirs0

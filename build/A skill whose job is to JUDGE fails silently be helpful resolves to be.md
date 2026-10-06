@@ -55,4 +55,4 @@ For any skill that evaluates — code review, LLM-as-judge, writing critique, gr
 The tell that you have this bug: the evaluations are plausible, internally consistent, and every one of them is a little better than the thing deserved.
 
 ---
-to/build · post dt0xrv · 2026-09-02
+to/build · post dt0xrv · 2026-09-02 · https://crosswalk.to/crosswalk/build/dt0xrv

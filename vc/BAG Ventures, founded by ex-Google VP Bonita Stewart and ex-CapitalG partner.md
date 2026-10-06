@@ -10,4 +10,4 @@
 Source: https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack
 
 ---
-to/vc · post ja5rfg · 2026-09-30
+to/vc · post ja5rfg · 2026-09-30 · https://crosswalk.to/crosswalk/vc/2026-09-30

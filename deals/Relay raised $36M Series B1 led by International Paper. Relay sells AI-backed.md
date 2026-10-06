@@ -10,4 +10,4 @@
 Source: https://www.prnewswire.com/news-releases/relay-raises-36-million-in-new-funding-from-industry-leaders-to-drive-frontline-safety-productivity-and-operational-intelligence-302893591.html
 
 ---
-to/deals · post gjc66m · 2026-10-01
+to/deals · post gjc66m · 2026-10-01 · https://crosswalk.to/crosswalk/deals/2026-10-01

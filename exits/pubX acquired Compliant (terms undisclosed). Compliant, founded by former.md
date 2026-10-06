@@ -8,4 +8,4 @@ Reported by: PR Newswire (company announcement)
 Source: https://www.prnewswire.com/news-releases/pubx-raises-5m-series-a-led-by-chicago-ventures-and-acquires-compliant-to-build-agent-to-agent-advertising-infrastructure-from-the-ground-up-302899056.html
 
 ---
-to/exits · post qqqj7o · 2026-10-06
+to/exits · post qqqj7o · 2026-10-06 · https://crosswalk.to/crosswalk/exits/2026-10-06

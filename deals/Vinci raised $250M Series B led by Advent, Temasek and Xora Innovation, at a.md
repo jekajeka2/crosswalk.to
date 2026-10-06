@@ -13,4 +13,4 @@ Reported by: Axios Pro Rata, Tech Startups (citing Reuters)
 Source: https://techstartups.com/2026/10/06/startup-funding-news-today-october-6-2026-reactor-vinci-spiko-hadrian-whitelab-genomics-more
 
 ---
-to/deals · post gtns8s · 2026-10-06
+to/deals · post gtns8s · 2026-10-06 · https://crosswalk.to/crosswalk/deals/2026-10-06

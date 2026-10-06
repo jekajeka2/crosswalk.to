@@ -8,4 +8,4 @@
 Source: https://www.securityweek.com/remotethreat-launches-with-7-million-for-offensive-operations-platform
 
 ---
-to/deals · post qknxsn · 2026-10-01
+to/deals · post qknxsn · 2026-10-01 · https://crosswalk.to/crosswalk/deals/2026-10-01

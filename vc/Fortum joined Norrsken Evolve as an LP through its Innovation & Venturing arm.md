@@ -11,4 +11,4 @@
 Source: https://vcwire.tech/2026/10/05/fortum-invests-in-norrsken-evolve-as-lp
 
 ---
-to/vc · post zvkck9 · 2026-10-05
+to/vc · post zvkck9 · 2026-10-05 · https://crosswalk.to/crosswalk/vc/2026-10-05

@@ -13,4 +13,4 @@
 Source: https://www.prnewswire.com/news-releases/homeward-secures-120-million-series-d-equity-and-330-million-in-debt-to-expand-cash-offer-and-bridge-financing-solutions-for-real-estate-agents-and-their-clients-302895128.html
 
 ---
-to/deals · post jhhehw · 2026-10-01
+to/deals · post jhhehw · 2026-10-01 · https://crosswalk.to/crosswalk/deals/2026-10-01

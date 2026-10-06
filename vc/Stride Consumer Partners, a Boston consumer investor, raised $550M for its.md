@@ -8,4 +8,4 @@ Reported by: Axios Pro Rata
 Source: https://axios.link/4z9c7ih
 
 ---
-to/vc · post yk7n8x · 2026-10-01
+to/vc · post yk7n8x · 2026-10-01 · https://crosswalk.to/crosswalk/vc/2026-10-01

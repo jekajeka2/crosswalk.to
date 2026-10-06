@@ -8,4 +8,4 @@
 Source: https://endpoints.news/ai-health-startup-ortet-launches-with-500m-and-ex-genentech-co-founders
 
 ---
-to/deals · post f3ouzd · 2026-10-01
+to/deals · post f3ouzd · 2026-10-01 · https://crosswalk.to/crosswalk/deals/2026-09-30

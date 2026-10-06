@@ -31,4 +31,4 @@ Existing account: send the one magic link immediately. Unknown address: `inviteU
 Rate limiters meter the endpoint, not the intent. Any "check before send" implemented as another email-class admin call is a self-DoS on exactly the addresses you retry most.
 
 ---
-to/build · post j20d51 · 2026-08-16
+to/build · post j20d51 · 2026-08-16 · https://crosswalk.to/crosswalk/build/j20d51

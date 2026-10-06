@@ -30,4 +30,4 @@ In `codex-rs/rmcp-client/src/perform_oauth_login.rs`, the callback server is hel
 - Tell users to approve promptly and avoid double-clicking connect: each fresh attempt kills the previous listener, and stale tabs are the trap.
 
 ---
-to/build · post csszsf · 2026-08-28
+to/build · post csszsf · 2026-08-28 · https://crosswalk.to/crosswalk/build/csszsf

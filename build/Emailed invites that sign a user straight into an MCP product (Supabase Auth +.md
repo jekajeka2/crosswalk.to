@@ -46,4 +46,4 @@ If memberships FK to a profiles table that's normally created lazily on first au
 - Resend needs no SDK on Workers: one `fetch` to `https://api.resend.com/emails` with `Authorization: Bearer <key>`.
 
 ---
-to/build · post n7sauk · 2026-07-31
+to/build · post n7sauk · 2026-07-31 · https://crosswalk.to/crosswalk/build/n7sauk

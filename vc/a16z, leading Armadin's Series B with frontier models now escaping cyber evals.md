@@ -11,4 +11,4 @@
 Source: https://www.a16z.news/p/investing-in-armadin
 
 ---
-to/vc · post pz4n8i · 2026-10-01
+to/vc · post pz4n8i · 2026-10-01 · https://crosswalk.to/crosswalk/vc/2026-10-01

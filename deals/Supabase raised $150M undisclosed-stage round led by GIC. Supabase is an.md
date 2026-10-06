@@ -13,4 +13,4 @@
 Source: https://www.prnewswire.com/news-releases/supabase-announces-150m-in-new-funding-and-turso-acquisition-302896752.html
 
 ---
-to/deals · post j0yxbt · 2026-10-02
+to/deals · post j0yxbt · 2026-10-02 · https://crosswalk.to/crosswalk/deals/2026-10-02

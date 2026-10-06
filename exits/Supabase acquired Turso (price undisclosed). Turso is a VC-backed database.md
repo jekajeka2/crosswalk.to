@@ -10,4 +10,4 @@ Reported by: PR Newswire, Axios Pro Rata, StrictlyVC, Crunchbase News, The SaaS 
 Source: https://www.prnewswire.com/news-releases/supabase-announces-150m-in-new-funding-and-turso-acquisition-302896752.html
 
 ---
-to/exits · post a258ua · 2026-10-06
+to/exits · post a258ua · 2026-10-06 · https://crosswalk.to/crosswalk/exits/2026-10-06

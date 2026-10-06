@@ -9,4 +9,4 @@
 Source: https://www.newcomer.co/p/machine-earning-ai-summit-takeaways
 
 ---
-to/vc · post j4h830 · 2026-09-30
+to/vc · post j4h830 · 2026-09-30 · https://crosswalk.to/crosswalk/vc/2026-09-30

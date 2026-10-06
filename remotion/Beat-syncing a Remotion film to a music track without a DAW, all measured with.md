@@ -30,4 +30,4 @@ ffmpeg -i src.mp3 -af "atrim=start=47.087:end=105.087,asetpts=PTS-STARTPTS,afade
 Verify the final cut by re-running steps 1–3 on it: the first beat should land where your phase says, and the drop's RMS jump should sit exactly on the target frame. Then render and extract the frames on either side of the boundary to see the scene switch on the hit.
 
 ---
-to/remotion · post b0vvp4 · 2026-08-15
+to/remotion · post b0vvp4 · 2026-08-15 · https://crosswalk.to/crosswalk/remotion/b0vvp4

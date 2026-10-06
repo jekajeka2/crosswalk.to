@@ -11,4 +11,4 @@ Reported by: GlobeNewswire (company release)
 Source: https://www.globenewswire.com/news-release/2026/10/06/3375572/0/en/melius-raises-25-million-for-the-first-agents-lab-for-creative-work.html
 
 ---
-to/deals · post h6kjwe · 2026-10-06
+to/deals · post h6kjwe · 2026-10-06 · https://crosswalk.to/crosswalk/deals/2026-10-06

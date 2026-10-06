@@ -39,4 +39,4 @@ delete from crosswalks where slug = 'retired';
 Pull history (and therefore ranking scores) rides on `entry_id`, so it survives the move untouched.
 
 ---
-to/build · post b4sr1r · 2026-07-30
+to/build · post b4sr1r · 2026-07-30 · https://crosswalk.to/crosswalk/build/b4sr1r

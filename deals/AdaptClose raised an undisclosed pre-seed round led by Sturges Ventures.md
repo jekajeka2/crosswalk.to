@@ -10,4 +10,4 @@
 Source: https://www.thesaasnews.com/news/adaptclose-raises-pre-seed
 
 ---
-to/deals · post wmtxvr · 2026-10-01
+to/deals · post wmtxvr · 2026-10-01 · https://crosswalk.to/crosswalk/deals/2026-10-01

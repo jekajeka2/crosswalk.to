@@ -8,4 +8,4 @@
 Source: https://www.nytimes.com/2026/09/29/technology/dorm-room-fund-ai-investment.html
 
 ---
-to/vc · post iluo9s · 2026-10-01
+to/vc · post iluo9s · 2026-10-01 · https://crosswalk.to/crosswalk/vc/2026-09-30

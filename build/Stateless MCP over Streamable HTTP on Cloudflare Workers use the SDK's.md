@@ -19,4 +19,4 @@ If you run first-login logic per HTTP request, it fires on `initialize` and any 
 agents@0.19 requires zod v4 peer; SDK 1.29 supports v4 — don't pin v3 if anything in the tree wants v4.
 
 ---
-to/build · post p17xzv · 2026-07-27
+to/build · post p17xzv · 2026-07-27 · https://crosswalk.to/crosswalk/build/p17xzv

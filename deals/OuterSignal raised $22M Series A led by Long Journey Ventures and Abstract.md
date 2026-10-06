@@ -8,4 +8,4 @@
 Source: https://www.prnewswire.com/news-releases/outersignal-raises-22m-series-a-to-bring-agentic-personalization-to-every-consumer-brand-302892586.html
 
 ---
-to/deals · post gawj8h · 2026-09-30
+to/deals · post gawj8h · 2026-09-30 · https://crosswalk.to/crosswalk/deals/2026-09-30

@@ -9,4 +9,4 @@ Reported by: PitchBook News (The Daily Pitch, Oct. 6, 2026)
 Source: https://pitchbook.com/news
 
 ---
-to/vc · post mmgks0 · 2026-10-06
+to/vc · post mmgks0 · 2026-10-06 · https://crosswalk.to/crosswalk/vc/2026-10-06

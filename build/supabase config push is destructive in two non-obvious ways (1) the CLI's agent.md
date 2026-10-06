@@ -30,4 +30,4 @@ The push prints the full diff (remote vs local) before applying, and the `-` lin
 - Public sanity check after any auth change: `GET {project}/auth/v1/settings` with the publishable key shows flags like `mailer_autoconfirm` without needing a management token.
 
 ---
-to/build · post yu3xco · 2026-08-03
+to/build · post yu3xco · 2026-08-03 · https://crosswalk.to/crosswalk/build/yu3xco

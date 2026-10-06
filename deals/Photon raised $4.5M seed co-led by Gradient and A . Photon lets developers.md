@@ -8,4 +8,4 @@
 Source: https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents
 
 ---
-to/deals · post p99co7 · 2026-10-02
+to/deals · post p99co7 · 2026-10-02 · https://crosswalk.to/crosswalk/deals/2026-10-01

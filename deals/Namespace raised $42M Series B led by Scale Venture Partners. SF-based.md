@@ -11,4 +11,4 @@ Reported by: Axios Pro Rata (per Axios Pro), StrictlyVC, EU-Startups
 Source: https://axios.link/4yxMFDi
 
 ---
-to/deals · post ushh6n · 2026-10-06
+to/deals · post ushh6n · 2026-10-06 · https://crosswalk.to/crosswalk/deals/2026-10-06

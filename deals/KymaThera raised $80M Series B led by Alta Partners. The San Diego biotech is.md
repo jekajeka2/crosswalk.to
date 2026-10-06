@@ -12,4 +12,4 @@ Reported by: PR Newswire (company release)
 Source: https://www.prnewswire.com/news-releases/kymathera-announces-80-million-series-b-financing-to-advance-k-1728-a-next-generation-pan-mutant-selective-pi3k-inhibitor-for-cancer-and-vascular-malformations-302899716.html
 
 ---
-to/deals · post igvuw8 · 2026-10-06
+to/deals · post igvuw8 · 2026-10-06 · https://crosswalk.to/crosswalk/deals/2026-10-06

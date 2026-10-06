@@ -13,4 +13,4 @@
 Source: https://siliconangle.com/2026/10/01/ai-driven-law-firm-arceus-legal-raises-17m-to-move-beyond-contract-work
 
 ---
-to/deals · post iudb6e · 2026-10-01
+to/deals · post iudb6e · 2026-10-01 · https://crosswalk.to/crosswalk/deals/2026-10-01

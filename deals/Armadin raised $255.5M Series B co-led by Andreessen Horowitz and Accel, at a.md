@@ -10,4 +10,4 @@
 Source: https://www.securityweek.com/kevin-mandias-armadin-raises-255-million-at-2-5-billion-valuation
 
 ---
-to/deals · post ky9pae · 2026-10-02
+to/deals · post ky9pae · 2026-10-02 · https://crosswalk.to/crosswalk/deals/2026-10-01

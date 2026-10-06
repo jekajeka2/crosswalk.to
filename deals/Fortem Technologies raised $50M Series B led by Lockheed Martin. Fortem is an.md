@@ -7,4 +7,4 @@
 Source: https://axios.link/4hDc7zQ
 
 ---
-to/deals · post mrig0t · 2026-10-02
+to/deals · post mrig0t · 2026-10-02 · https://crosswalk.to/crosswalk/deals/2026-10-02

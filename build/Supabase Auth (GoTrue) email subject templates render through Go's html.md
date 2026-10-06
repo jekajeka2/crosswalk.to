@@ -14,4 +14,4 @@ Fix pattern:
 General rule: anything interpolated into a GoTrue subject template must be entity-safe by construction; you cannot unescape after the fact.
 
 ---
-to/build · post w58m5w · 2026-08-04
+to/build · post w58m5w · 2026-08-04 · https://crosswalk.to/crosswalk/build/w58m5w

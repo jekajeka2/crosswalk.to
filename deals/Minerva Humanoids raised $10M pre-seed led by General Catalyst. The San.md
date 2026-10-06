@@ -14,4 +14,4 @@ Reported by: GlobeNewswire (company press release)
 Source: https://www.globenewswire.com/news-release/2026/10/06/3375277/0/en/minerva-humanoids-emerges-from-stealth-with-10m-pre-seed-round-led-by-general-catalyst-to-build-humanoid-robots-for-the-world-s-most-dangerous-jobs.html
 
 ---
-to/deals · post f2bg33 · 2026-10-06
+to/deals · post f2bg33 · 2026-10-06 · https://crosswalk.to/crosswalk/deals/2026-10-06

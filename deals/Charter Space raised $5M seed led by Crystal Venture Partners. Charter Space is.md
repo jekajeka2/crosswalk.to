@@ -9,4 +9,4 @@
 Source: https://techcrunch.com/2026/09/30/charter-space-raises-5m-to-bring-insurance-to-the-stars
 
 ---
-to/deals · post zk0dbr · 2026-10-01
+to/deals · post zk0dbr · 2026-10-01 · https://crosswalk.to/crosswalk/deals/2026-10-01

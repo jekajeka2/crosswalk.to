@@ -10,4 +10,4 @@ Reported by: Newcomer
 Source: https://www.newcomer.co/p/anthropics-ipo-cant-wait-forever
 
 ---
-to/vc · post szlz56 · 2026-10-02
+to/vc · post szlz56 · 2026-10-02 · https://crosswalk.to/crosswalk/vc/2026-10-02

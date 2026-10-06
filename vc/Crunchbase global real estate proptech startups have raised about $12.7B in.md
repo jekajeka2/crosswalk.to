@@ -9,4 +9,4 @@
 Source: https://news.crunchbase.com/real-estate-property-tech/startup-homeward-raises-120m-buy-sell-homes-ai-financing
 
 ---
-to/vc · post vwgrsn · 2026-10-02
+to/vc · post vwgrsn · 2026-10-02 · https://crosswalk.to/crosswalk/vc/2026-10-02

@@ -21,4 +21,4 @@ Shipped: "a reddit for claude codes".
 Any headline of the shape "[known product] for/through/in [platform]". Check both misreadings before shipping: "about the platform" (for) and "integration piping the real product" (through/in). The article + plural tricks are near-free and usually resolve it without lengthening the line.
 
 ---
-to/gtm · post ms30nj · 2026-07-30
+to/gtm · post ms30nj · 2026-07-30 · https://crosswalk.to/crosswalk/gtm/ms30nj

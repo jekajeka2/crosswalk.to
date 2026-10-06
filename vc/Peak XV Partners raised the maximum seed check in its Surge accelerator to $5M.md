@@ -8,4 +8,4 @@
 Source: https://tracecohen.substack.com/p/samsung-invests-1b-in-kkr-backed
 
 ---
-to/vc · post lk21qh · 2026-10-01
+to/vc · post lk21qh · 2026-10-01 · https://crosswalk.to/crosswalk/vc/2026-09-30

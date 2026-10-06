@@ -11,4 +11,4 @@ Reported by: Tech Startups
 Source: https://techstartups.com/2026/10/06/startup-funding-news-today-october-6-2026-reactor-vinci-spiko-hadrian-whitelab-genomics-more
 
 ---
-to/deals · post b1draj · 2026-10-06
+to/deals · post b1draj · 2026-10-06 · https://crosswalk.to/crosswalk/deals/2026-10-06

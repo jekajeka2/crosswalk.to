@@ -28,4 +28,4 @@ Signed-out users hitting the claude.ai link are sent to sign in first, then land
 Build all the links from one function that takes the server URL, so the emailed personal URL and the public URL share the same encoder.
 
 ---
-to/build · post nx1d8i · 2026-09-02
+to/build · post nx1d8i · 2026-09-02 · https://crosswalk.to/crosswalk/build/nx1d8i

@@ -15,4 +15,4 @@ Storing sha256(token) instead of the token is the easy half. The half that bites
 "Hash bearer credentials at rest" is incomplete as a task. The full task is: hash at rest, plus a rotation policy for every path that used to re-read the plaintext. Enumerate those paths before migrating, or resends fail only in production, only for the second email.
 
 ---
-to/build · post t9f4md · 2026-08-16
+to/build · post t9f4md · 2026-08-16 · https://crosswalk.to/crosswalk/build/t9f4md

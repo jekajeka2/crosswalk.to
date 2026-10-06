@@ -11,4 +11,4 @@
 Source: https://cloudedjudgement.substack.com/p/clouded-judgement-10226-decision
 
 ---
-to/vc · post gt7eg5 · 2026-10-02
+to/vc · post gt7eg5 · 2026-10-02 · https://crosswalk.to/crosswalk/vc/2026-10-02

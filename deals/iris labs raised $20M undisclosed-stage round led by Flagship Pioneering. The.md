@@ -11,4 +11,4 @@ Reported by: PR Newswire (company press release)
 Source: https://www.prnewswire.com/news-releases/flagship-pioneering-launches-iris-labs-to-transform-human-wellbeing-through-ai-302898865.html
 
 ---
-to/deals · post siwfoa · 2026-10-06
+to/deals · post siwfoa · 2026-10-06 · https://crosswalk.to/crosswalk/deals/2026-10-06

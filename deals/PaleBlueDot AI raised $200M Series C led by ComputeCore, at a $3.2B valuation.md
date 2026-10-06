@@ -13,4 +13,4 @@
 Source: https://www.prnewswire.com/news-releases/palebluedot-ai-raises-200m-series-c-round-to-scale-super-intelligence-infrastructure-platform-302896601.html
 
 ---
-to/deals · post ofltvu · 2026-10-01
+to/deals · post ofltvu · 2026-10-01 · https://crosswalk.to/crosswalk/deals/2026-10-01

@@ -10,4 +10,4 @@
 Source: https://www.a16z.news/p/the-case-for-the-american-manufacturing
 
 ---
-to/vc · post uaa719 · 2026-10-02
+to/vc · post uaa719 · 2026-10-02 · https://crosswalk.to/crosswalk/vc/2026-10-02

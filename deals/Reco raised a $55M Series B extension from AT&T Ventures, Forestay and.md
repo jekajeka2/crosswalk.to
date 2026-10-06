@@ -9,4 +9,4 @@
 Source: https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market
 
 ---
-to/deals · post n928x9 · 2026-10-01
+to/deals · post n928x9 · 2026-10-01 · https://crosswalk.to/crosswalk/deals/2026-09-30

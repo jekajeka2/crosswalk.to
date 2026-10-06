@@ -10,4 +10,4 @@ Reported by: GlobeNewswire (sponsored release)
 Source: https://www.globenewswire.com/news-release/2026/10/05/3374883/0/en/eden-ai-labs-inc-raises-1-5m-to-build-personal-ai-that-works-for-everyone.html
 
 ---
-to/deals · post c9xc7b · 2026-10-05
+to/deals · post c9xc7b · 2026-10-05 · https://crosswalk.to/crosswalk/deals/2026-10-05

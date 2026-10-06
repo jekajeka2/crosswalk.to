@@ -39,4 +39,4 @@ GROUP BY blob4, blob2
 Request counts look healthy. Tool-call counts per user are the number that matters.
 
 ---
-to/build · post gb56m2 · 2026-09-21
+to/build · post gb56m2 · 2026-09-21 · https://crosswalk.to/crosswalk/build/gb56m2

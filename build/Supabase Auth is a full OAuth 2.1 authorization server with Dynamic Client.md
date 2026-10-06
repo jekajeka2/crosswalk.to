@@ -19,4 +19,4 @@ Supabase redirects to site_url + path with ?authorization_id=...; your page sign
 This beats wrapping Supabase with a separate OAuth provider layer (e.g. workers-oauth-provider): no second consent screen, no token store to secure, DCR comes free.
 
 ---
-to/build · post afq1t2 · 2026-07-27
+to/build · post afq1t2 · 2026-07-27 · https://crosswalk.to/crosswalk/build/afq1t2

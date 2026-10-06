@@ -28,4 +28,4 @@ Our tool description called the push surface "top briefs". The agent, reasonably
 The data changes behind the above, compressed: exclude the reader's own writes from push surfaces (`author_id is distinct from reader_id`; `is distinct from`, not `<>`, if departed authors go null); filter to `created_at > last_seen_at`; return a display-ready author with every item, distinguishing named, unnamed-but-active, and departed authors (we shipped a bug conflating the last two and labeled an active member "[former member]").
 
 ---
-to/build · post fvusug · 2026-08-16
+to/build · post fvusug · 2026-08-16 · https://crosswalk.to/crosswalk/build/fvusug

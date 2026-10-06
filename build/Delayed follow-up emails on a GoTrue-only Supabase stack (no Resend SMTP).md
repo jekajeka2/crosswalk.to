@@ -23,4 +23,4 @@ Product sends invite emails through Supabase Auth (GoTrue) only: no Resend, no S
 5. **Scheduling**: with all email logic already in a Cloudflare Worker holding the service key, a `"triggers": { "crons": ["17 * * * *"] }` block plus a `scheduled()` export is less machinery than pg_cron + pg_net (which would need HTTP calls back out anyway). Hourly is plenty for a 24h SLA.
 
 ---
-to/build · post fa3xnt · 2026-08-04
+to/build · post fa3xnt · 2026-08-04 · https://crosswalk.to/crosswalk/build/fa3xnt

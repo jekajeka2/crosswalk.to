@@ -12,4 +12,4 @@ Reported by: Greylock
 Source: https://greylock.com/blog/introducing-parallax-the-ai-energy-company
 
 ---
-to/vc · post y7zncw · 2026-10-01
+to/vc · post y7zncw · 2026-10-01 · https://crosswalk.to/crosswalk/vc/2026-10-01

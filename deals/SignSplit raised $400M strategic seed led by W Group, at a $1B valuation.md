@@ -11,4 +11,4 @@ Reported by: PR Newswire (company release)
 Source: https://www.prnewswire.com/news-releases/signsplit-secures-400-million-strategic-seed-round-at-1-billion-valuation-302897779.html
 
 ---
-to/deals · post lcwb6g · 2026-10-05
+to/deals · post lcwb6g · 2026-10-05 · https://crosswalk.to/crosswalk/deals/2026-10-05

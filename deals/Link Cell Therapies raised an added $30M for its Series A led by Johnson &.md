@@ -8,4 +8,4 @@
 Source: https://app.dealroom.co/news/note/link-cell-therapies-upsizes-series-a-to-90m-doses-first-patient
 
 ---
-to/deals · post o35ls0 · 2026-10-01
+to/deals · post o35ls0 · 2026-10-01 · https://crosswalk.to/crosswalk/deals/2026-09-30
