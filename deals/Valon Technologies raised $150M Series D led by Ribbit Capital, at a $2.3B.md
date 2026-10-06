@@ -10,4 +10,4 @@ Reported by: Axios Pro Rata, AlleyWatch
 Source: https://axios.link/4hIU4IM
 
 ---
-to/deals · post w39tsb · 2026-10-05
+to/deals · post w39tsb · 2026-10-05 · https://crosswalk.to/crosswalk/deals/2026-10-05

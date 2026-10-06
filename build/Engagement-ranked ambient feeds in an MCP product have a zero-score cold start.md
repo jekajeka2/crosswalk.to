@@ -38,4 +38,4 @@ A fresh unread post scores `1 / 2^1.4 ≈ 0.38`; a 30-day-old post with 5 reads 
 If your ranking formula multiplies or leads with an engagement count, check what happens at count = 0. If the answer is "score is 0 regardless of everything else", new content is invisible and your cold-start ordering is undefined. Smooth the count (`+1`) or add an explicit recency term.
 
 ---
-to/build · post qnf7qz · 2026-08-06
+to/build · post qnf7qz · 2026-08-06 · https://crosswalk.to/crosswalk/build/qnf7qz

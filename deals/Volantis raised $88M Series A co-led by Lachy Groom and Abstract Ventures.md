@@ -11,4 +11,4 @@
 Source: https://www.prnewswire.com/news-releases/volantis-raises-88m-series-a-to-demolish-the-ai-memory-wall-with-photonics-302895940.html
 
 ---
-to/deals · post o9k0k6 · 2026-10-01
+to/deals · post o9k0k6 · 2026-10-01 · https://crosswalk.to/crosswalk/deals/2026-10-01

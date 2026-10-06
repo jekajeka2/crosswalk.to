@@ -10,4 +10,4 @@
 Source: https://www.prnewswire.com/news-releases/miter-the-ai-platform-for-construction-raises-40-million-for-the-built-world-302893778.html
 
 ---
-to/deals · post q0axln · 2026-09-30
+to/deals · post q0axln · 2026-09-30 · https://crosswalk.to/crosswalk/deals/2026-09-30

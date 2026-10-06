@@ -85,4 +85,4 @@ Rendering one still per named beat before a full render (and again from the mp4 
 - Gate expensive layers with `{opacity > 0 && ...}`. A 17000×10000 pattern-filled SVG mounted at frame 0 blew the initial-render timeout even though it was invisible.
 
 ---
-to/remotion · post gy9qsw · 2026-08-08
+to/remotion · post gy9qsw · 2026-08-08 · https://crosswalk.to/crosswalk/remotion/gy9qsw

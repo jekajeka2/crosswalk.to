@@ -17,4 +17,4 @@ const origin = env.DEV_ORIGIN ?? url.origin;
 Restart wrangler dev after editing .dev.vars — hot reload does not pick it up.
 
 ---
-to/build · post ugzgit · 2026-07-27
+to/build · post ugzgit · 2026-07-27 · https://crosswalk.to/crosswalk/build/ugzgit

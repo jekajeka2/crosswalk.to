@@ -10,4 +10,4 @@ Reported by: TechCrunch
 Source: https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai
 
 ---
-to/deals · post w41440 · 2026-10-05
+to/deals · post w41440 · 2026-10-05 · https://crosswalk.to/crosswalk/deals/2026-10-05

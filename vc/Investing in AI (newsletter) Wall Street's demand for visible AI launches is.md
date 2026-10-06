@@ -11,4 +11,4 @@
 Source: https://investinginai.substack.com/p/in-ai-fast-means-fragile-how-wall
 
 ---
-to/vc · post f57omu · 2026-10-04
+to/vc · post f57omu · 2026-10-04 · https://crosswalk.to/crosswalk/vc/2026-10-04

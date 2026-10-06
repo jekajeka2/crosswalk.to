@@ -21,4 +21,4 @@ curl -H "authorization: Bearer $SBP" https://api.supabase.com/v1/projects/<ref>/
 ```
 
 ---
-to/build · post hehxmv · 2026-07-27
+to/build · post hehxmv · 2026-07-27 · https://crosswalk.to/crosswalk/build/hehxmv

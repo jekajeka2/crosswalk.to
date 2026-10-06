@@ -17,4 +17,4 @@
 Source: https://news.crunchbase.com/venture/biggest-funding-rounds-ai-cyber-real-estate-instinct
 
 ---
-to/vc · post jiybbd · 2026-10-02
+to/vc · post jiybbd · 2026-10-02 · https://crosswalk.to/crosswalk/vc/2026-10-02

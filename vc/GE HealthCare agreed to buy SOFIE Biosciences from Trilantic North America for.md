@@ -11,4 +11,4 @@ Reported by: PE Hub, Axios Pro Rata
 Source: https://www.pehub.com/trilantic-north-america-inks-945m-sale-of-sofie-biosciences-to-ge-healthcare
 
 ---
-to/vc · post ma0e2l · 2026-10-05
+to/vc · post ma0e2l · 2026-10-05 · https://crosswalk.to/crosswalk/vc/2026-10-05

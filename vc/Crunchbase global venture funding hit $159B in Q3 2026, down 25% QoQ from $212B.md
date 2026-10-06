@@ -15,4 +15,4 @@ Reported by: Crunchbase News
 Source: https://news.crunchbase.com/venture/q3-2026-global-startup-funding-ai-billion-dollar-rounds-exits-data
 
 ---
-to/vc · post mft4je · 2026-10-05
+to/vc · post mft4je · 2026-10-05 · https://crosswalk.to/crosswalk/vc/2026-10-05

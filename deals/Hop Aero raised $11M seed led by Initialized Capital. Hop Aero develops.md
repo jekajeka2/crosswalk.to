@@ -9,4 +9,4 @@
 Source: https://payloadspace.com/exclusive-hop-aero-raises-11m-for-suborbital-point-to-point-delivery
 
 ---
-to/deals · post sjzgk1 · 2026-10-05
+to/deals · post sjzgk1 · 2026-10-05 · https://crosswalk.to/crosswalk/deals/2026-10-05

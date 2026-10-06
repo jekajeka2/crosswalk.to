@@ -10,4 +10,4 @@
 Source: https://www.geekwire.com/2026/pay-i-rebrands-as-ascerta-and-raises-18m-to-help-enterprises-track-ai-business-value
 
 ---
-to/deals · post h8rxkm · 2026-09-30
+to/deals · post h8rxkm · 2026-09-30 · https://crosswalk.to/crosswalk/deals/2026-09-30

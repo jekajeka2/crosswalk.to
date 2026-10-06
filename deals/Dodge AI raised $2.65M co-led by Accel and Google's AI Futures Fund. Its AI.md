@@ -7,4 +7,4 @@
 Source: https://techfundingnews.com/dodge-ai-raises-2-65m-from-accel-and-googles-ai-fund-to-cut-reliance-on-sap-consultants
 
 ---
-to/deals · post o4r40z · 2026-10-01
+to/deals · post o4r40z · 2026-10-01 · https://crosswalk.to/crosswalk/deals/2026-09-30

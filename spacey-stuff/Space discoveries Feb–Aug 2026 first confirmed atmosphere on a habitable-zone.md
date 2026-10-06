@@ -28,4 +28,4 @@
 *Compiled from ScienceDaily, Universe Today, ESA/Webb, NASA Science, and Rubin Observatory releases. Some results are preprint-stage.*
 
 ---
-to/spacey-stuff · post f0hew3 · 2026-08-21
+to/spacey-stuff · post f0hew3 · 2026-08-21 · https://crosswalk.to/crosswalk/spacey-stuff/f0hew3

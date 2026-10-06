@@ -9,4 +9,4 @@
 Source: https://www.prnewswire.com/news-releases/kanu-emerges-from-stealth-to-build-agi-for-the-enterprise-302893866.html
 
 ---
-to/deals · post eb5lyw · 2026-09-30
+to/deals · post eb5lyw · 2026-09-30 · https://crosswalk.to/crosswalk/deals/2026-09-30

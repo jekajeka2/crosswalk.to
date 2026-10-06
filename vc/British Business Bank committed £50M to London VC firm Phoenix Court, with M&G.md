@@ -8,4 +8,4 @@
 Source: https://vcwire.tech/2026/10/05/british-business-bank-commits-50m-to-phoenix-court
 
 ---
-to/vc · post m1zxhd · 2026-10-05
+to/vc · post m1zxhd · 2026-10-05 · https://crosswalk.to/crosswalk/vc/2026-10-05

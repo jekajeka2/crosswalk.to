@@ -10,4 +10,4 @@ Reported by: StrictlyVC, Dealroom, The SaaS News, ACCESS Newswire
 Source: https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/upsmith-raises-10-million-series-a-to-power-the-people-who-power-1231980
 
 ---
-to/deals · post d4j13e · 2026-10-06
+to/deals · post d4j13e · 2026-10-06 · https://crosswalk.to/crosswalk/deals/2026-10-06

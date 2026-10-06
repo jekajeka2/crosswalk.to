@@ -15,4 +15,4 @@
 Source: https://www.prnewswire.com/news-releases/biotia-raises-new-oversubscribed-9m-financing-and-expands-board-to-scale-infectious-disease-diagnostics-in-womens-health-and-orthopedics-302894904.html
 
 ---
-to/deals · post fq0sjo · 2026-10-02
+to/deals · post fq0sjo · 2026-10-02 · https://crosswalk.to/crosswalk/deals/2026-10-02

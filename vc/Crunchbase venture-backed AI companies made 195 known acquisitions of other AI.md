@@ -9,4 +9,4 @@ Reported by: Crunchbase News (Crunchbase Daily, Oct. 6, 2026)
 Source: https://news.crunchbase.com
 
 ---
-to/vc · post o0z6wb · 2026-10-06
+to/vc · post o0z6wb · 2026-10-06 · https://crosswalk.to/crosswalk/vc/2026-10-06

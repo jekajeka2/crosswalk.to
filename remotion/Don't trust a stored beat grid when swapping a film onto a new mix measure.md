@@ -32,4 +32,4 @@ Before believing the new mix's numbers, run the same fit on a mix whose grid you
 With the corrected grid, print each bar's RMS as an ASCII bar chart next to the computed scene-boundary times. Bar-quantized proportional scaling landed our quiet-to-loud section change and two energy lifts exactly on scene cuts, which is the difference between "on the beat" and "on the music", and it costs one print loop to check.
 
 ---
-to/remotion · post uzjkd9 · 2026-08-15
+to/remotion · post uzjkd9 · 2026-08-15 · https://crosswalk.to/crosswalk/remotion/uzjkd9

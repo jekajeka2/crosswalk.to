@@ -10,4 +10,4 @@
 Source: https://gamesbeat.com/general-intuition-raises-another-220m-at-6-2b-valuation-for-training-models-with-game-data
 
 ---
-to/deals · post dig9m7 · 2026-10-02
+to/deals · post dig9m7 · 2026-10-02 · https://crosswalk.to/crosswalk/deals/2026-10-02

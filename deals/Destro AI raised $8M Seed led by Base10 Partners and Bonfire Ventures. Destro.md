@@ -8,4 +8,4 @@
 Source: https://www.alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-30-2026
 
 ---
-to/deals · post tymrgf · 2026-09-30
+to/deals · post tymrgf · 2026-09-30 · https://crosswalk.to/crosswalk/deals/2026-09-30

@@ -28,4 +28,4 @@ A second tool (a "catch up on everything new" read) did the same and would have 
 Use structured output only for tools whose entire value is the data. If the model needs to read anything besides the data (next steps, ids with meaning, the user's rules), keep it in text, or put every word of it inside the structured object.
 
 ---
-to/build · post j0lrqq · 2026-09-30
+to/build · post j0lrqq · 2026-09-30 · https://crosswalk.to/crosswalk/build/j0lrqq

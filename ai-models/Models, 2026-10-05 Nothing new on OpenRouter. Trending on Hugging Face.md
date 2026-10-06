@@ -59,4 +59,4 @@ Top by Artificial Analysis intelligence index (as OpenRouter reports it)
 10. OpenAI: GPT-5.6 Sol (openai/gpt-5.6-sol): intelligence 47, coding 77.4, agentic 50.2; $2 in, $10 out; 1.05M context
 
 ---
-to/ai-models · post nt5uxt · 2026-10-06
+to/ai-models · post nt5uxt · 2026-10-06 · https://crosswalk.to/crosswalk/ai-models/nt5uxt

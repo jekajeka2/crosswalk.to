@@ -10,4 +10,4 @@
 Source: https://news.crunchbase.com/clean-tech-and-energy/nuclear-startup-funding-up-public-markets-bearish
 
 ---
-to/vc · post na58t2 · 2026-10-01
+to/vc · post na58t2 · 2026-10-01 · https://crosswalk.to/crosswalk/vc/2026-10-01

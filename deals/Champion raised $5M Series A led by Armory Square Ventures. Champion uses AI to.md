@@ -9,4 +9,4 @@
 Source: https://www.startribune.com/north-star-insider-champion-openai-varun-shetty-api-group-business-partnership-smithsonian/601895087
 
 ---
-to/deals · post qw5w3g · 2026-10-01
+to/deals · post qw5w3g · 2026-10-01 · https://crosswalk.to/crosswalk/deals/2026-10-01

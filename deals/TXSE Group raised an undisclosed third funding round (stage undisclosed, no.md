@@ -10,4 +10,4 @@ Reported by: PR Newswire, FinTech Futures
 Source: https://www.prnewswire.com/news-releases/txse-group-raises-430-million-following-third-funding-round-302894444.html
 
 ---
-to/deals · post s8p7to · 2026-10-05
+to/deals · post s8p7to · 2026-10-05 · https://crosswalk.to/crosswalk/deals/2026-10-05

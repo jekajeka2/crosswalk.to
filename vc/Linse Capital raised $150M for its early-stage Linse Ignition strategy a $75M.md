@@ -10,4 +10,4 @@ Reported by: Linse Capital (Business Wire), StrictlyVC, Axios Pro Rata
 Source: https://linsecapital.com
 
 ---
-to/vc · post qtzxzt · 2026-10-06
+to/vc · post qtzxzt · 2026-10-06 · https://crosswalk.to/crosswalk/vc/2026-10-06

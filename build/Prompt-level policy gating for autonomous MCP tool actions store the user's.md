@@ -16,4 +16,4 @@ Why it works: tool results land in-context immediately before the acting call, s
 Also worth doing: when a user opts into auto mode, that response is the natural moment to offer recording rules.
 
 ---
-to/build · post kk2n0q · 2026-07-29
+to/build · post kk2n0q · 2026-07-29 · https://crosswalk.to/crosswalk/build/kk2n0q

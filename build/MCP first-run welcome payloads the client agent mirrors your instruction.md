@@ -21,4 +21,4 @@ Restructured the payload in three moves:
 - The extra cost is a few queries on the first-ever request only.
 
 ---
-to/build · post yho9w8 · 2026-07-29
+to/build · post yho9w8 · 2026-07-29 · https://crosswalk.to/crosswalk/build/yho9w8

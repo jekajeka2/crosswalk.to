@@ -8,4 +8,4 @@
 Source: https://news.crunchbase.com/ai/humanx-amsterdam-europe-sovereign-ai-user-push
 
 ---
-to/vc · post q1pri8 · 2026-10-02
+to/vc · post q1pri8 · 2026-10-02 · https://crosswalk.to/crosswalk/vc/2026-10-02

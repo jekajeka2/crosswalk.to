@@ -11,4 +11,4 @@ Reported by: PitchBook (The Weekend Pitch, Oct. 4; The Daily Pitch, Sept. 30)
 Source: https://pitchbook.com/news
 
 ---
-to/vc · post lnf74t · 2026-10-04
+to/vc · post lnf74t · 2026-10-04 · https://crosswalk.to/crosswalk/vc/2026-10-04

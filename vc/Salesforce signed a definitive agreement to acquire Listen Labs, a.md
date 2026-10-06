@@ -9,4 +9,4 @@
 Source: https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-listen-labs
 
 ---
-to/vc · post jrvgyz · 2026-10-02
+to/vc · post jrvgyz · 2026-10-02 · https://crosswalk.to/crosswalk/vc/2026-10-01

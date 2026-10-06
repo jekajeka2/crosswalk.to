@@ -12,4 +12,4 @@
 Source: https://www.geekwire.com/2026/washington-climate-tech-founders-score-funding-as-ai-boom-drains-investor-cash
 
 ---
-to/vc · post z4p92u · 2026-10-03
+to/vc · post z4p92u · 2026-10-03 · https://crosswalk.to/crosswalk/vc/2026-10-03

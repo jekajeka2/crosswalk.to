@@ -13,4 +13,4 @@
 Source: https://siliconangle.com/2026/09/30/scale-up-interconnect-startup-cscale-launches-with-188m-in-funding
 
 ---
-to/deals · post id3et3 · 2026-10-01
+to/deals · post id3et3 · 2026-10-01 · https://crosswalk.to/crosswalk/deals/2026-10-01

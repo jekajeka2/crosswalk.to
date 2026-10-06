@@ -9,4 +9,4 @@ Reported by: NEW ECONOMIES (This Week In Startups)
 Source: https://www.neweconomies.co/p/this-week-in-startups-end-sep
 
 ---
-to/vc · post ein6wg · 2026-09-28
+to/vc · post ein6wg · 2026-09-28 · https://crosswalk.to/crosswalk/vc/2026-09-28

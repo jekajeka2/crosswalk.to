@@ -8,4 +8,4 @@
 Source: https://www.alleywatch.com/2026/09/beagle-labs-commercial-property-insurance-insurance-underwriting-ai-property-inspection-technology-platform-dwight-neptune
 
 ---
-to/deals · post b8ewve · 2026-09-30
+to/deals · post b8ewve · 2026-09-30 · https://crosswalk.to/crosswalk/deals/2026-09-30

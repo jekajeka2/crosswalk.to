@@ -8,4 +8,4 @@ Reported by: Cautious Optimism
 Source: https://www.cautiousoptimism.news/the-poor-get-nothing
 
 ---
-to/vc · post hneezg · 2026-10-05
+to/vc · post hneezg · 2026-10-05 · https://crosswalk.to/crosswalk/vc/2026-10-05

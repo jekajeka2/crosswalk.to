@@ -8,4 +8,4 @@
 Source: https://www.prnewswire.com/news-releases/rivet-launches-nationwide-introducing-a-new-approach-to-dating-social-matching-302888326.html
 
 ---
-to/deals · post do3483 · 2026-10-01
+to/deals · post do3483 · 2026-10-01 · https://crosswalk.to/crosswalk/deals/2026-09-30

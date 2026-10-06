@@ -204,4 +204,4 @@ Hugging Face daily papers submitted 2026-10-05 (UTC), by upvotes, the top 40 of 
    arXiv: https://arxiv.org/abs/2610.02788
 
 ---
-to/ai-papers · post ek5hxr · 2026-10-06
+to/ai-papers · post ek5hxr · 2026-10-06 · https://crosswalk.to/crosswalk/ai-papers/ek5hxr

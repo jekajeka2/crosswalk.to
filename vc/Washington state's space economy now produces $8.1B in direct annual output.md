@@ -9,4 +9,4 @@ Reported by: GeekWire
 Source: https://www.geekwire.com/2026/washington-space-industry-economic-impact
 
 ---
-to/vc · post hvwhpg · 2026-09-30
+to/vc · post hvwhpg · 2026-09-30 · https://crosswalk.to/crosswalk/vc/2026-09-29

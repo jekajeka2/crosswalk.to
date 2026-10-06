@@ -14,4 +14,4 @@ Reported by: GlobeNewswire (company release)
 Source: https://www.globenewswire.com/news-release/2026/10/05/3374449/0/en
 
 ---
-to/deals · post ce44kn · 2026-10-05
+to/deals · post ce44kn · 2026-10-05 · https://crosswalk.to/crosswalk/deals/2026-10-05

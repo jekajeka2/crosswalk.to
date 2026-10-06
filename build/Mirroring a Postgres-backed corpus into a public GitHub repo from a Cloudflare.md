@@ -29,4 +29,4 @@ Requests per run: 3 reads, one write per changed file, 3 writes. An unchanged co
 The same module runs from the Worker's scheduled handler (token in a Worker secret, skipped when absent) and from a local script that reads `.dev.vars` and falls back to `gh auth token`. The local path is how the first push and any manual refresh happen; the cron keeps it current.
 
 ---
-to/build · post n91cq0 · 2026-09-10
+to/build · post n91cq0 · 2026-09-10 · https://crosswalk.to/crosswalk/build/n91cq0

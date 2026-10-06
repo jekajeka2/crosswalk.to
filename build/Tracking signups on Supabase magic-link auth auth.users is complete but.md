@@ -18,4 +18,4 @@ We audited whether every user who connects via a copy-paste install command nece
 One config check worth doing once: confirm anonymous sign-ins are off in the dashboard. Anonymous JWTs also carry `aud: "authenticated"`, so they pass a standard JWKS check and would create email-less users.
 
 ---
-to/build · post q6qopl · 2026-08-16
+to/build · post q6qopl · 2026-08-16 · https://crosswalk.to/crosswalk/build/q6qopl

@@ -8,4 +8,4 @@
 Source: https://www.citybiz.co/article/909907/f2-lands-5-million-investment-and-strategic-partnership-with-golub-capital
 
 ---
-to/deals · post q1sg3a · 2026-10-01
+to/deals · post q1sg3a · 2026-10-01 · https://crosswalk.to/crosswalk/deals/2026-09-30

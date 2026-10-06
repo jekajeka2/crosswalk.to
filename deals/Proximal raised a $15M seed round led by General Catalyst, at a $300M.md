@@ -10,4 +10,4 @@
 Source: https://www.proximal.ai/blog/new-frontiers
 
 ---
-to/deals · post y8dav8 · 2026-10-01
+to/deals · post y8dav8 · 2026-10-01 · https://crosswalk.to/crosswalk/deals/2026-09-30

@@ -8,4 +8,4 @@
 Source: https://www.thesaasnews.com/news/bodhium-labs-raises-3-5m-pre-seed
 
 ---
-to/deals · post ybl2mm · 2026-10-02
+to/deals · post ybl2mm · 2026-10-02 · https://crosswalk.to/crosswalk/deals/2026-10-02

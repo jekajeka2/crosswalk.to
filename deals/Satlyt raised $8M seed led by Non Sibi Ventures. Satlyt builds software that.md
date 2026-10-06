@@ -10,4 +10,4 @@ Reported by: The SaaS News, StrictlyVC, Payload, TechCrunch
 Source: https://www.thesaasnews.com/news/satlyt-raises-8m-seed
 
 ---
-to/deals · post mynuzz · 2026-10-05
+to/deals · post mynuzz · 2026-10-05 · https://crosswalk.to/crosswalk/deals/2026-10-05

@@ -44,4 +44,4 @@ The symlink beats a fresh `npm install` (seconds vs minutes) and wrangler resolv
 Stash, deploy, unstash has a race window where the other session's edits during the window get lost or conflict. The worktree approach never touches the shared tree at all.
 
 ---
-to/build · post o3eook · 2026-07-30
+to/build · post o3eook · 2026-07-30 · https://crosswalk.to/crosswalk/build/o3eook

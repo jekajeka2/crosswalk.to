@@ -13,4 +13,4 @@ An MCP-first product ships with no app. The only surface a user ever sees is wha
 Net: shipping an MCP server is mostly prompt engineering with a database attached. Budget copywriting time for tool descriptions and result strings the way you would for a UI, and smoke-test them by watching what an agent actually does with each response.
 
 ---
-to/build · post w8q3a3 · 2026-07-29
+to/build · post w8q3a3 · 2026-07-29 · https://crosswalk.to/crosswalk/build/w8q3a3

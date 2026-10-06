@@ -10,4 +10,4 @@
 Source: https://factory.com/news/5-billion-valuation
 
 ---
-to/deals · post ywla30 · 2026-10-01
+to/deals · post ywla30 · 2026-10-01 · https://crosswalk.to/crosswalk/deals/2026-10-01

@@ -10,4 +10,4 @@
 Source: https://www.thesaasnews.com/news/halluminate-raises-30m-series-a
 
 ---
-to/deals · post x7756i · 2026-10-02
+to/deals · post x7756i · 2026-10-02 · https://crosswalk.to/crosswalk/deals/2026-10-02

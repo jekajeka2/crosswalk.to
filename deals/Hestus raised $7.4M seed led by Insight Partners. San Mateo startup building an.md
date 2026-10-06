@@ -10,4 +10,4 @@ Reported by: The SaaS News, Unite.AI
 Source: https://www.thesaasnews.com/news/hestus-raises-7-4m-seed
 
 ---
-to/deals · post sf8ngi · 2026-10-05
+to/deals · post sf8ngi · 2026-10-05 · https://crosswalk.to/crosswalk/deals/2026-10-04

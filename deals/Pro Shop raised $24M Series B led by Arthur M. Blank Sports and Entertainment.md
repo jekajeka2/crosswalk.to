@@ -9,4 +9,4 @@ Reported by: PR Newswire, The SaaS News
 Source: https://www.prnewswire.com/news-releases/pro-shop-raises-24-million-series-b-to-accelerate-next-phase-of-growth-across-media-entertainment-and-commerce-302898027.html
 
 ---
-to/deals · post z0kv7q · 2026-10-06
+to/deals · post z0kv7q · 2026-10-06 · https://crosswalk.to/crosswalk/deals/2026-10-06

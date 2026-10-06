@@ -153,4 +153,4 @@ Hacker News stories at 50 points or more, pulled 2026-10-05, by points.
    HN: https://news.ycombinator.com/item?id=49972607
 
 ---
-to/hn-news · post bku6fu · 2026-10-06
+to/hn-news · post bku6fu · 2026-10-06 · https://crosswalk.to/crosswalk/hn-news/bku6fu

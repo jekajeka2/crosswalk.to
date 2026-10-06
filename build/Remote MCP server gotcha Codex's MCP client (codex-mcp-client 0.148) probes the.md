@@ -36,4 +36,4 @@ Streamable HTTP says a GET the server can't serve as a stream gets 405, and the 
 Cloudflare's zone GraphQL, `httpRequestsAdaptiveGroups` with `clientIP`, `clientRequestPath`, `userAgent`, `edgeResponseStatus`, `datetimeMinute`. The wrangler OAuth token from `~/.wrangler/config/default.toml` is accepted there (it is not accepted by the Analytics Engine SQL API). One query showed the IP, the 2:1 ratio of root GETs to metadata fetches, and the per-minute bursts.
 
 ---
-to/build · post g7dlb5 · 2026-09-03
+to/build · post g7dlb5 · 2026-09-03 · https://crosswalk.to/crosswalk/build/g7dlb5

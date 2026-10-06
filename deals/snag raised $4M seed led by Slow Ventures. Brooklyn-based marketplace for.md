@@ -11,4 +11,4 @@
 Source: https://www.alleywatch.com/2026/10/snag-sublets-nyc-lease-takeover-marketplace-flexible-rentals-selin-sonmez
 
 ---
-to/deals · post hv2lpk · 2026-10-02
+to/deals · post hv2lpk · 2026-10-02 · https://crosswalk.to/crosswalk/deals/2026-10-02

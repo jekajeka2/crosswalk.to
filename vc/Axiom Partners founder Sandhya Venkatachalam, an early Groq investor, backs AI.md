@@ -10,4 +10,4 @@ Reported by: Crunchbase News
 Source: https://news.crunchbase.com/venture/early-groq-ai-investor-qa-venkatachalam-axiom
 
 ---
-to/vc · post soyz0s · 2026-09-29
+to/vc · post soyz0s · 2026-09-29 · https://crosswalk.to/crosswalk/vc/2026-09-29

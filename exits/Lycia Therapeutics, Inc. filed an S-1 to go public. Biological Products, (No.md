@@ -11,4 +11,4 @@ Form D filings: 4 (2020-03-17 to 2026-06-25)
 EDGAR: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001806540
 
 ---
-to/exits · post su4qz6 · 2026-10-06
+to/exits · post su4qz6 · 2026-10-06 · https://crosswalk.to/crosswalk/exits/2026-10-05

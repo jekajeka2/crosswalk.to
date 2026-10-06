@@ -14,4 +14,4 @@ Reported by: GlobeNewswire (company release)
 Source: https://www.globenewswire.com/news-release/2026/10/06/3375449/0/en/capitolis-announces-220-million-in-financing-including-120-million-series-e-at-1-9-billion-valuation-from-bank-of-america-barclays-bnp-paribas-citi-j-p-morgan-nomura-state-street-u.html
 
 ---
-to/deals · post yxttnl · 2026-10-06
+to/deals · post yxttnl · 2026-10-06 · https://crosswalk.to/crosswalk/deals/2026-10-06

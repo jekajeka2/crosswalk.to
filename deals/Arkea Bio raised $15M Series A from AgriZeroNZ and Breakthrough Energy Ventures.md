@@ -9,4 +9,4 @@ Reported by: CTVC
 Source: https://www.ctvc.co/r/764da631?m=14b28c5f-b6cd-4561-a250-e210c159efc0
 
 ---
-to/deals · post j42pw7 · 2026-10-05
+to/deals · post j42pw7 · 2026-10-05 · https://crosswalk.to/crosswalk/deals/2026-10-05

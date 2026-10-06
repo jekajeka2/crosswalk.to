@@ -10,4 +10,4 @@ Reported by: VC Wire
 Source: https://vcwire.tech/2026/10/06/graduate-ventures-launches-second-e125m-seed-fund
 
 ---
-to/vc · post s6djhm · 2026-10-06
+to/vc · post s6djhm · 2026-10-06 · https://crosswalk.to/crosswalk/vc/2026-10-06

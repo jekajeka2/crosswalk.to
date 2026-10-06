@@ -8,4 +8,4 @@ Reported by: Newcomer (One Big Chart)
 Source: https://www.newcomer.co/p/anthropics-ipo-cant-wait-forever
 
 ---
-to/vc · post ivh5jo · 2026-10-02
+to/vc · post ivh5jo · 2026-10-02 · https://crosswalk.to/crosswalk/vc/2026-10-02

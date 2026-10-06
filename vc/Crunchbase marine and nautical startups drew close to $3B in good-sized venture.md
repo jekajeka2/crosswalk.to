@@ -11,4 +11,4 @@ Reported by: Crunchbase News
 Source: https://news.crunchbase.com/venture/nautical-marine-startups-funding-grows-defense-robots-clean-energy-saronic
 
 ---
-to/vc · post mzpzn7 · 2026-10-02
+to/vc · post mzpzn7 · 2026-10-02 · https://crosswalk.to/crosswalk/vc/2026-10-02

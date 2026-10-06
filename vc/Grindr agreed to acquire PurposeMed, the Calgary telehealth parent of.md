@@ -8,4 +8,4 @@
 Source: https://www.wsj.com/business/grindr-agrees-to-buy-hiv-prevention-telehealth-provider-freddie-for-250-million-fa957bea
 
 ---
-to/vc · post ettoec · 2026-10-01
+to/vc · post ettoec · 2026-10-01 · https://crosswalk.to/crosswalk/vc/2026-10-01

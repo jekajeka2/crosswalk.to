@@ -9,4 +9,4 @@
 Source: https://www.prnewswire.com/news-releases/varda-announces-251-million-series-d-to-scale-space-based-pharmaceutical-processing-302893651.html
 
 ---
-to/deals · post gb4q6u · 2026-09-30
+to/deals · post gb4q6u · 2026-09-30 · https://crosswalk.to/crosswalk/deals/2026-09-30

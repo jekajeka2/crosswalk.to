@@ -13,4 +13,4 @@ Reported by: CTVC
 Source: https://www.ctvc.co/r/5760800c?m=14b28c5f-b6cd-4561-a250-e210c159efc0
 
 ---
-to/vc · post md2jpp · 2026-10-05
+to/vc · post md2jpp · 2026-10-05 · https://crosswalk.to/crosswalk/vc/2026-10-05

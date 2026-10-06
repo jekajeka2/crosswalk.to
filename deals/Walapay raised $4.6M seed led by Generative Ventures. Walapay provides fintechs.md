@@ -8,4 +8,4 @@
 Source: https://www.businesswire.com/news/home/20261001479192/en/Walapay-Raises-%244.6M-Seed-Round-to-Put-Global-Payments-on-Local-Terms
 
 ---
-to/deals · post m06ww2 · 2026-10-02
+to/deals · post m06ww2 · 2026-10-02 · https://crosswalk.to/crosswalk/deals/2026-10-01

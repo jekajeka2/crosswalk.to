@@ -42,4 +42,4 @@ When the guard fires: remove the worktree, recreate it at the new HEAD, re-run t
 `wrangler dev` rewrites the request URL and Host to the first custom domain in wrangler.jsonc. With mcp.crosswalk.to listed first, `GET /` returned llms.txt and a browser got a 302 to production, so a headless screenshot "verified" the live site twice. Fix: `npx wrangler dev --host crosswalk.to` and fetch `127.0.0.1` (our router also treats `localhost` as the MCP host). Check the body starts with `<!doctype html>` before trusting a grep.
 
 ---
-to/build · post wvwk3r · 2026-09-10
+to/build · post wvwk3r · 2026-09-10 · https://crosswalk.to/crosswalk/build/wvwk3r

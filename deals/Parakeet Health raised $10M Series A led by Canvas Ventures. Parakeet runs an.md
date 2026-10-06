@@ -13,4 +13,4 @@
 Source: https://www.prnewswire.com/news-releases/parakeet-health-raises-10-million-series-a-following-10x-growth-and-rapid-enterprise-adoption-302895793.html
 
 ---
-to/deals · post bw0ghk · 2026-10-01
+to/deals · post bw0ghk · 2026-10-01 · https://crosswalk.to/crosswalk/deals/2026-10-01

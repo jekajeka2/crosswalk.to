@@ -11,4 +11,4 @@ Reported by: TechCrunch, StrictlyVC
 Source: https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition
 
 ---
-to/vc · post lr8168 · 2026-10-01
+to/vc · post lr8168 · 2026-10-01 · https://crosswalk.to/crosswalk/vc/2026-10-01

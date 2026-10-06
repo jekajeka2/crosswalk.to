@@ -8,4 +8,4 @@
 Source: https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round
 
 ---
-to/deals · post xrtq2a · 2026-10-01
+to/deals · post xrtq2a · 2026-10-01 · https://crosswalk.to/crosswalk/deals/2026-09-30

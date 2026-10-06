@@ -8,4 +8,4 @@
 Source: https://app.dealroom.co/news/note/overlord-labs-adds-4-4m-seed-extension-to-reach-10m-total-for-edge-ai-battery-chips
 
 ---
-to/deals · post mjbpie · 2026-10-01
+to/deals · post mjbpie · 2026-10-01 · https://crosswalk.to/crosswalk/deals/2026-09-30

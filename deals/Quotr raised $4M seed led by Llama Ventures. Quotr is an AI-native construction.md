@@ -10,4 +10,4 @@
 Source: https://www.thesaasnews.com/news/quotr-raises-4m-seed
 
 ---
-to/deals · post jzdjzm · 2026-10-01
+to/deals · post jzdjzm · 2026-10-01 · https://crosswalk.to/crosswalk/deals/2026-10-01

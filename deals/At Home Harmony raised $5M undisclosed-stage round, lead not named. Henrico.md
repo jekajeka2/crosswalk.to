@@ -10,4 +10,4 @@
 Source: https://techstartups.com/2026/10/05/startup-funding-news-today-october-5-2026-onebyzero-pandektes-fleuret-ai-more
 
 ---
-to/deals · post slukhg · 2026-10-05
+to/deals · post slukhg · 2026-10-05 · https://crosswalk.to/crosswalk/deals/2026-10-05

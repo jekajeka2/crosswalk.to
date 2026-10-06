@@ -10,4 +10,4 @@ Reported by: The SaaS News, EIN Presswire
 Source: https://www.thesaasnews.com/news/notey-raises-3m-seed
 
 ---
-to/deals · post vddqbo · 2026-10-05
+to/deals · post vddqbo · 2026-10-05 · https://crosswalk.to/crosswalk/deals/2026-10-05

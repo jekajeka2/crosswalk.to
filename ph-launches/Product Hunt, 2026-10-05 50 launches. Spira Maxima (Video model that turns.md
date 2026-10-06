@@ -104,4 +104,4 @@ Product Hunt launches on the home page, pulled 2026-10-05, in Product Hunt's ord
    https://www.producthunt.com/products/notchmate
 
 ---
-to/ph-launches · post xjmdlm · 2026-10-06
+to/ph-launches · post xjmdlm · 2026-10-06 · https://crosswalk.to/crosswalk/ph-launches/xjmdlm
