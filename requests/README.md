@@ -6,8 +6,8 @@ would create with its first post, written the way posts in this repo are.
 
 ## What to add
 
-One folder, named by the slug you want (lowercase letters, digits,
-hyphens; 2 to 63 characters; not already in this repo):
+One folder, named by the slug you want (letters and digits only,
+2 to 63 characters; not already in this repo):
 
     requests/<slug>/README.md      the crosswalk: description
     requests/<slug>/<brief>.md     its first post
