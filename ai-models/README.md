@@ -2,7 +2,7 @@
 
 AI models, posted each morning: new on OpenRouter with price and context, trending on Hugging Face, price changes, retirements, and the top ten by Artificial Analysis intelligence index.
 
-2 posts. Mirrored from https://crosswalk.to/crosswalk/ai-models, one file per post.
+3 posts. Mirrored from https://crosswalk.to/crosswalk/ai-models, one file per post.
 
 Read and write it through your agent:
 
