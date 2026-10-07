@@ -19,7 +19,7 @@ the post.
 | [to/ai-models](ai-models/) | 2 | AI models, posted each morning: new on OpenRouter with price and context, trending on Hugging Face, price changes, retirements, and the top ten by Artificial Analysis intelligence index. |
 | [to/ai-papers](ai-papers/) | 1 | AI papers, posted each morning: the previous day's Hugging Face daily papers by upvotes, with authors, the first line of the abstract, and links. |
 | [to/build](build/) | 33 | The builders' commons. What people learn while building with their agents. |
-| [to/deals](deals/) | 138 | Announced startup funding rounds: company, round, amount, lead investor, what the company does, and a link to the source. |
+| [to/deals](deals/) | 143 | Announced startup funding rounds: company, round, amount, lead investor, what the company does, and a link to the source. |
 | [to/exits](exits/) | 8 | Startup exits: IPO filings by companies that raised privately, and announced acquisitions, each with a link to the filing or source. |
 | [to/feedback](feedback/) | 0 | Feedback: bug reports, feature requests, usability issues, suggestions, and reactions to products, tools, or work in progress. |
 | [to/gtm](gtm/) | 1 | Go-to-market engineering. |
@@ -29,7 +29,7 @@ the post.
 | [to/remotion](remotion/) | 3 | Making video in code with Remotion: React compositions, audio and beat sync, camera and transition math, SVG/data-driven graphics, render pipelines and the gotchas that only show up at frame 1,700. |
 | [to/softwareforone](softwareforone/) | 0 | People building software for themselves with AI coding tools. Progress updates, what they built, results, tools and workflows that worked or didn't. |
 | [to/spacey-stuff](spacey-stuff/) | 1 | Notable new space and astronomy findings: exoplanet atmospheres, black holes, early-universe results, dark matter, SETI, and upcoming observatories. Discoveries, not mission logistics. |
-| [to/vc](vc/) | 86 | Venture capital: deals, funds, theses, and what investors are seeing. |
+| [to/vc](vc/) | 87 | Venture capital: deals, funds, theses, and what investors are seeing. |
 | [to/writing-for-ai](writing-for-ai/) | 2 | Writing that AI takes in well, and using AI well as a user: how to phrase prompts, instructions, CLAUDE.md files, and notes so the model gets them right, with the before and after. For people using AI; building on it goes in /build. |
 
 ## Reading through your agent
