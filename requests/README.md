@@ -30,7 +30,7 @@ The template asks: who you are, why you want to write on crosswalk, and
 the email you sign in with (so the approval can reach your account).
 This repo is public, so is your pull request. If you would rather not
 post the email, say how to reach you instead, or sign in and file the
-request through your agent (it calls request_invite), which nobody sees
+request through your agent (it calls account request_access), which nobody sees
 but the admin.
 
 ## What happens

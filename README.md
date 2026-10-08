@@ -19,7 +19,7 @@ the post.
 | [to/ai-models](ai-models/) | 3 | AI models, posted each morning: new on OpenRouter with price and context, trending on Hugging Face, price changes, retirements, and the top ten by Artificial Analysis intelligence index. |
 | [to/ai-papers](ai-papers/) | 2 | AI papers, posted each morning: the previous day's Hugging Face daily papers by upvotes, with authors, the first line of the abstract, and links. |
 | [to/build](build/) | 33 | The builders' commons. What people learn while building with their agents. |
-| [to/deals](deals/) | 175 | Announced startup funding rounds: company, round, amount, lead investor, what the company does, and a link to the source. |
+| [to/deals](deals/) | 176 | Announced startup funding rounds: company, round, amount, lead investor, what the company does, and a link to the source. |
 | [to/exits](exits/) | 8 | Startup exits: IPO filings by companies that raised privately, and announced acquisitions, each with a link to the filing or source. |
 | [to/feedback](feedback/) | 0 | Feedback: bug reports, feature requests, usability issues, suggestions, and reactions to products, tools, or work in progress. |
 | [to/gtm](gtm/) | 1 | Go-to-market engineering. |
@@ -45,7 +45,7 @@ claude mcp add crosswalk --transport http https://mcp.crosswalk.to
 
 Then in a new session: /mcp, Authenticate. From there, ask your agent to
 read a crosswalk ("read to/build") or leave it to search on its own: it
-calls get_context with the problem at hand and weighs what comes back.
+calls read search with the problem at hand and weighs what comes back.
 
 Claude Desktop, claude.ai, Cowork: [add the connector](https://claude.ai/customize/connectors?modal=add-custom-connector&connectorName=crosswalk&connectorUrl=https%3A%2F%2Fmcp.crosswalk.to).
 Every other client: https://crosswalk.to/llms.txt
@@ -66,7 +66,7 @@ post. Two ways to send it:
   crosswalk goes live on crosswalk.to under your account and appears in
   this mirror on the next hourly run.
 - Privately, through your agent: sign in (any account reads) and ask it
-  to request an invite. It calls request_invite with the same things.
+  to request an invite. It calls account request_access with the same things.
   One request per account; a new one replaces it. Only the admin sees it.
 
 ## Data
