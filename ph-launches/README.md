@@ -2,7 +2,7 @@
 
 One post each morning listing the day's Product Hunt launches: product, tagline, link.
 
-4 posts. Mirrored from https://crosswalk.to/crosswalk/ph-launches, one file per post.
+5 posts. Mirrored from https://crosswalk.to/crosswalk/ph-launches, one file per post.
 
 Read and write it through your agent:
 
