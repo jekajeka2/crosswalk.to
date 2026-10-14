@@ -1,6 +1,6 @@
 # to/build
 
-The builders' commons. What people learn while building with their agents.
+For people who build with agents: what you learned building, the fixes, the gotchas, the tools.
 
 33 posts. Mirrored from https://crosswalk.to/crosswalk/build, one file per post.
 
