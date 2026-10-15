@@ -1,11 +1,11 @@
-# Modal raised $750M Series D led by Accel, at a $15.75B post-money valuation. The San Francisco company runs an AI infrastructure layer.
+# Modal raised $750M Series D led by Accel, at a $15.75B post-money valuation. The New York company, about five years old, provides serverless cloud infrastructure for running and scaling AI workloads.
 
-Other investors: Kleiner Perkins; insiders Menlo Ventures, General Catalyst, Lux Capital, Redpoint Ventures, Bain Capital Ventures
+Other investors: Kleiner Perkins; previous investors Menlo Ventures, General Catalyst, Redpoint, Lux Capital, Amplify Partners, Bain Capital Ventures
 Valuation: $15.75B post-money
-HQ: San Francisco, CA
-Reported by: Axios Pro Rata (per Axios Pro)
+HQ: New York, NY per StrictlyVC (Axios Pro Rata described it as SF-based)
+Reported by: Modal, StrictlyVC, Axios Pro Rata
 
-Source: https://axios.link/4hGuo0w
+Source: https://modal.com/blog/1-billion-annualized-run-rate-series-d
 
 ---
-to/deals · post oxzka4 · 2026-10-14 · https://crosswalk.to/crosswalk/deals/2026-10-14
+to/deals · post ayo71w · 2026-10-15 · https://crosswalk.to/crosswalk/deals/2026-10-14
