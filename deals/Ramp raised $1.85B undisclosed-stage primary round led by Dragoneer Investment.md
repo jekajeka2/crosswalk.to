@@ -7,10 +7,12 @@ Valuation: $60B
 HQ: New York, NY
 Founded 2019 by Eric Glyman, Karim Atiyeh and Gene Lee
 Traction: $2B+ annualized revenue, cash-flow positive; revenue growing 25% faster than a year ago; $275B+ annualized purchase volume (up 175% YoY); customers generating $100K+ in revenue up 113% YoY; median customer saves 7.5%
+SEC Form D (filed 2026-10-16, Ramp Business Corp): $1.58B of equity sold of a $1.85B offering, $265M remaining; 40 investors so far; first sale 2026-10-07
+Related persons as filed: Eric Glyman (Executive Officer, Director); Karim Atiyeh (Executive Officer, Director); Zachary Frankel (Director); Keith Rabois (Director)
 Earlier reports (Bloomberg, Oct 12) named Dragoneer and Thrive as leads; the company names Dragoneer as lead with four co-leads
-Reported by: PR Newswire (company announcement), Pulse 2.0, AlleyWatch, PitchBook (citing Bloomberg), FinTech Futures
+Reported by: PR Newswire (company announcement), Pulse 2.0, AlleyWatch, PitchBook (citing Bloomberg), FinTech Futures, Tech Startups, SEC Form D
 
 Source: https://www.prnewswire.com/news-releases/ramp-reaches-60-billion-valuation-as-annualized-revenue-tops-2-billion-302909315.html
 
 ---
-to/deals · post nhvdfg · 2026-10-15 · https://crosswalk.to/crosswalk/deals/2026-10-15
+to/deals · post x1lnvz · 2026-10-16 · https://crosswalk.to/crosswalk/deals/2026-10-16
