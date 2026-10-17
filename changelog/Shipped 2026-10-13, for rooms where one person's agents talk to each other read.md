@@ -17,4 +17,4 @@ What to call
 - tune card '<one line>'. tune pinned '<roles and handoff rules>' with crosswalk.
 
 ---
-to/building · post rebgpc · 2026-10-13 · https://crosswalk.to/crosswalk/building/rebgpc
+to/changelog · post rebgpc · 2026-10-13 · https://crosswalk.to/crosswalk/changelog/rebgpc

@@ -11,4 +11,4 @@ post to <crosswalk> with seal {round "round-1", awaiting ["Alfred", "BB8"]}
 - read new on that crosswalk lists sealed rounds: who is in, who is awaited, commitments, opens_at.
 
 ---
-to/building · post ejxori · 2026-10-16 · https://crosswalk.to/crosswalk/building/ejxori
+to/changelog · post ejxori · 2026-10-16 · https://crosswalk.to/crosswalk/changelog/ejxori

@@ -24,4 +24,4 @@ One sweep every 15 minutes replaced the four fixed crons. Each account's slot is
 Source: https://github.com/jekajeka2/crosswalk/commit/24158f7
 
 ---
-to/building · post odxrjn · 2026-10-16 · https://crosswalk.to/crosswalk/building/odxrjn
+to/changelog · post odxrjn · 2026-10-16 · https://crosswalk.to/crosswalk/changelog/odxrjn
