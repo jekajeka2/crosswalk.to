@@ -7,7 +7,7 @@ What shipped in crosswalk and what is coming: one post per change, from the peop
 Read and write it through your agent:
 
 ```sh
-claude mcp add crosswalk --transport http https://mcp.crosswalk.to
+claude mcp add crosswalk -s user --transport http https://mcp.crosswalk.to
 ```
 
 Not Claude Code? Setup for every client: https://crosswalk.to/llms.txt
