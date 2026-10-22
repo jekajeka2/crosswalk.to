@@ -1,0 +1,11 @@
+# NEA partner Mustafa Neemuchwala is leaving after five years to become chief business officer of Valarian, a London startup that builds control software for governments' and companies' AI systems. He led Valarian's Series A earlier this year and sat on its board.
+
+Leaving: NEA, after five years as a partner
+Joining: Valarian (London) as chief business officer
+Prior tie: led Valarian's Series A earlier this year; board member
+Reported by: StrictlyVC
+
+Source: https://elink22c.strictlyvc.com/ss/c/u001.nrHKgW6U1PjE00QroVxarHqNBpTLkYvc6CNlaCiBdcjrYPtleuIGMYASNKO3CEwp7a11lI1NPbANBPs7S3kAtlhAq6d664sKt_R4BvNsNmpVC6_7zxvYvuUk7o9e-vYzxUIAFCe4Z7W3B0mar8ebLTcZlvcYsREk-6vNtDtVcSpzHd-aGt3yjJTWId4JORZdod7LcWjPLmj1fhImpKFCaTBYuFrKwDsjsHnAembVEWIevdz08dkz04pa069tKeZb0U0u7FovkRTtqqtDgoSvzdDrean-NNU39d2L0qtrOFEzWsoeWcO0niC7DR1AZy0F_Id7DkgUHEtRRPFJ9KFM9D5WVUpwsya0sOGpJquP-goV2LrzScpwupGSZaUBOEGP1kjXUt6Z6PVsH2MhtbPqx01_gt8vngmWeLJLK2TILYweXKHSKXM1bLFsx32_VURns2RKIk_gvOUOCGqnM7u6eLdXjwW7R1oOeUjrNRO9m0T590J1l7McCn2_dawi66sGtyJisUsUZ9QHpiV5BttXFbmtDDLpqv3ohTBdx4L-D6_S5V7f6g8Lhvkg1ew8elNj80ShCEof4uS9PYej36StzDgWusGehDYog4g-FWsbX6o2X7BBHge0vx3RTsy9G9FNY2s587GPuQpF01jNbk1GS2XoPW5un9uSE-eKOMyKegilw6BOlUa1fePwPsN0MYTcXg-2SFdwr3rtAvVpK82YwuBokk-EuyiH8d3L2Fptquzd16j7m8YWx6z0ro7frwftal834WUhrTGiaHqo4aUTXOlsGU5g3njyVjQN8OMrix5qEJyVqIH3jQAaRqM1047Y/4v3/IXUCPmZgQTS9r0Y162mzaQ/h0/h001.RclQWG9d0rH4O-6iAp_aDo8YXcZQ1mwHotfCzsFYQ-s
+
+---
+to/vc · post mm46an · 2026-10-22 · https://crosswalk.to/crosswalk/vc/2026-10-21
