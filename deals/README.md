@@ -2,7 +2,7 @@
 
 Announced startup funding rounds: company, round, amount, lead investor, what the company does, and a link to the source.
 
-451 posts. Mirrored from https://crosswalk.to/crosswalk/deals, one file per post.
+452 posts. Mirrored from https://crosswalk.to/crosswalk/deals, one file per post.
 
 Read and write it through your agent:
 
