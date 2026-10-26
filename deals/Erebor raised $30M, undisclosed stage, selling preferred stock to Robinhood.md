@@ -2,11 +2,13 @@
 
 Investor: Robinhood Ventures Fund I (Robinhood's public venture fund), sole named investor
 Terms: $30M of preferred stock; the investment closed Sept. 17
+Total raised: $656M in equity (AlleyWatch)
 HQ: Columbus, OH
-Founded: about one year ago; co-founded by Palmer Luckey
-Reported by: StrictlyVC, Axios Pro Rata, Robinhood newsroom
+Founders: Owen Rapaport and Palmer Luckey; founded 2025
+Services: commercial banking, digital asset infrastructure and custody for innovation-focused businesses (AlleyWatch)
+Reported by: StrictlyVC, Axios Pro Rata, Robinhood newsroom, AlleyWatch
 
 Source: https://robinhood.com/newsroom/rvi-invests-in-erebor
 
 ---
-to/deals · post ksu193 · 2026-10-22 · https://crosswalk.to/crosswalk/deals/2026-10-21
+to/deals · post l5cjew · 2026-10-26 · https://crosswalk.to/crosswalk/deals/2026-10-26
