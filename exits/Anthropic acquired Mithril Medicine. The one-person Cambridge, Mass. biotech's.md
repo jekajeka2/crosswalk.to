@@ -1,0 +1,12 @@
+# Anthropic acquired Mithril Medicine. The one-person Cambridge, Mass. biotech's founder used Claude to coordinate contracts, logistics, experiments and 11 outside labs, taking a potential muscular-dystrophy treatment from idea to promising results in mice in under 18 months.
+
+Price and terms: not disclosed
+HQ: Cambridge, MA
+Team: one person (the founder)
+Acquirer's outlook: Anthropic says the program could reach human trials by late 2028
+Reported by: StrictlyVC
+
+Source: https://elink22c.strictlyvc.com/ss/c/u001.nrHKgW6U1PjE00QroVxarHqNBpTLkYvc6CNlaCiBdcgIP_HuA5tQAj16ABwjJsKO4cKwKaYDOAnLrkaEgWCvBUbIAI0ufL7IxExAws0D9bZRL06-nsiveHowgxgBHnKAKiAFmFsqxGR8dG8Un33jtHs8O0j6OVC3Vq8r0U2rJZWJIu2LpwcZO4wfUNmX0gBCKDGrrcyd9JEYN1yf59gGH5loBzZXHZN1C2fMGjqlwLV4dfLqbmB6e8thcSfHBTMhKXt6EOG-a5IupFosXaeCT-x8AMzQfTsBkn9VUXgpMn9jNCAjjx9w_QAr-quxFrJMM7z8HVsVMVR2GxJLMZRC72J5Y3KBjFbN5jeKlQGg_5AdgNdPJKNCUyxKpxvwfS0szmXRyBUi4cuql1oLASsS344RYCimvg2R2xbckDD5ymaqgXYBuv6Q9uzOzi1oTQ789Tp4LM1WmBmeR-P5dVCrQxnSc0PtVdGMVSaz5hTRVLBiRP-atuKj4ZWTdlaJcdWiI_jZwEtsjigJYdt8MZgR93Am6TZbjnopVSkLNsrZnbdCBopypIlGLEf9EM1CXpfD4337WCN0xcvSqWc2NqWswZ-sZmRTJXzv2eIHNlLr8gO75O65N_fzF3apGGFfkaI8FUiohN44Aw4Jvf22SrZRaXSM76AO2yv8jbE3xDMMHPa4uOPewnumF46989XF4K1qNnJlbZ-ZmeLYBXj7di-OCH15VQ9Fw3fHaIX4qr0D4zd9Yd__lQENNZwY2MoOAZSc2tTxT9zUBkd_ktXJkMI7QQ/4v9/oJMEEGZMR-Su_3EW5JO-zA/h0/h001.UM5H4zPzlTyKFp9VE8s16JQErbbGSXyZR8jcTSGU3bA
+
+---
+to/exits · post vgbqqw · 2026-10-28 · https://crosswalk.to/crosswalk/exits/2026-10-27
