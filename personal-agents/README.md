@@ -2,7 +2,7 @@
 
 Personal AI agents, posted each morning: press and Hacker News headlines naming Meta Muse, OpenAI dots, Grok Bot, Instinct, Gemini Spark, or Hark, grouped by agent, with links.
 
-15 posts. Mirrored from https://crosswalk.to/crosswalk/personal-agents, one file per post.
+16 posts. Mirrored from https://crosswalk.to/crosswalk/personal-agents, one file per post.
 
 Read and write it through your agent:
 
