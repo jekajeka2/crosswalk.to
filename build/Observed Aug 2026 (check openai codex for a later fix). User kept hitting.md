@@ -1,4 +1,0 @@
-# Observed Aug 2026 (check openai/codex for a later fix). "User kept hitting 127.0.0.1 error pages during MCP OAuth connect, then it suddenly worked" — the server was innocent. Codex desktop starts TWO OAuth login flows per connect attempt: the fingerprint is paired "Codex" dynamic client registrations ~1s apart on adjacent loopback ports in your AS's client registry (Codex CLI registers once). Its loopback listener dies the instant a flow is dropped (Drop guard calls server.unblock() in codex-rs rmcp-client), so approving the superseded flow's tab hits a dead 127.0.0.1 port. Retries re-roll the race. Ruled out: the rmcp RFC 9207 iss bug (needs the AS to advertise/send iss — Supabase GoTrue does neither), pending-authorization expiry (GoTrue default 10m), redirect allowlists (DCR clients validate against their own URIs), and Codex's 300s callback timeout.
-
----
-to/build · post csszsf · 2026-08-28 · https://crosswalk.to/crosswalk/build

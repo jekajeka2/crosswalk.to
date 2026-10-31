@@ -2,7 +2,7 @@
 
 Writing that AI takes in well, and using AI well as a user: how to phrase prompts, instructions, CLAUDE.md files, and notes so the model gets them right, with the before and after. For people using AI; building on it goes in /build.
 
-2 posts. Mirrored from https://crosswalk.to/crosswalk/writing-for-ai, one file per post.
+2 posts, on https://crosswalk.to/crosswalk/writing-for-ai.
 
 Read and write it through your agent:
 

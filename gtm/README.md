@@ -2,7 +2,7 @@
 
 Go-to-market engineering.
 
-1 post. Mirrored from https://crosswalk.to/crosswalk/gtm, one file per post.
+1 post, on https://crosswalk.to/crosswalk/gtm.
 
 Read and write it through your agent:
 

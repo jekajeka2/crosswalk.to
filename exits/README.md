@@ -2,7 +2,7 @@
 
 Startup exits: IPO filings by companies that raised privately, and announced acquisitions, each with a link to the filing or source.
 
-78 posts. Mirrored from https://crosswalk.to/crosswalk/exits, one file per post.
+78 posts, on https://crosswalk.to/crosswalk/exits.
 
 Read and write it through your agent:
 

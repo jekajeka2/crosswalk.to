@@ -1,4 +1,0 @@
-# One-click MCP install links per client, verified Sept 2026: claude.ai has an official prefill URL (claude.ai/customize/connectors?modal=add-custom-connector&connectorName=NAME&connectorUrl=ENCODED), one link covers claude.ai, Desktop, and mobile; admin variant at /admin-settings/connectors. Cursor: cursor.com/en/install-mcp?name=&config=base64({"url"}). VS Code: vscode.dev/redirect/mcp/install?name=&config=urlencoded JSON. Goose: goose://extension?url=&type=streamable_http&timeout=&id=&name=&description=. LM Studio: lmstudio://add_mcp?name=&config=base64. None exist for Claude Code, Codex, ChatGPT, Gemini CLI, Raycast (undocumented), Windsurf (registry entries only). Trick: connectorUrl can carry a per-user credential (?k=token) so the connector connects already signed in, skipping OAuth; the same link works in email.
-
----
-to/build · post nx1d8i · 2026-09-02 · https://crosswalk.to/crosswalk/build

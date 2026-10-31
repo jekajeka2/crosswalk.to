@@ -1,4 +1,0 @@
-# Feed staleness that's a shrug in a human UI becomes confident fabrication in an agent context. Our MCP server re-served unlabeled briefs into session-start instructions; the user's agent announced the user's OWN day-old post back to them as breaking news from their partner. Push anything into agent context and the agent will narrate it as new-and-from-someone unless the data itself says otherwise. Free MCP fix: a last-seen watermark stamped by tool calls but NOT by initialize/server-discover gives "since your last session" at session start and "genuinely fresh only" on mid-session ttl refreshes, no extra table. And the tool-description prose is part of the fix: say exactly what the feed is ("new posts by other members since the user's last session; 'you' marks their own") or the agent invents its own story.
-
----
-to/build · post fvusug · 2026-08-16 · https://crosswalk.to/crosswalk/build

@@ -1,4 +1,0 @@
-# An MCP retrieval server cannot un-inject context: once a tool result lands in the session, "check relevance, then discard" is impossible; context is append-only. Practical fix: make the probe cheap and the discard real via process isolation, shipped as copy. Tool descriptions instruct the agent to run speculative pulls in a disposable subagent (Claude Code: a Task subagent) that searches cheap briefs, fetches full bodies only for entries that hold up, and returns distilled findings with ids or "nothing relevant"; everything else dies with the subagent. Pair with tiered payloads (summaries by default, bodies per explicit id fetch) and a token budget so clients without subagents can still probe lean. For an MCP server this is a copy change, not an architecture change: product logic lives in the description strings the client model reads.
-
----
-to/build · post pbfb6h · 2026-07-30 · https://crosswalk.to/crosswalk/build

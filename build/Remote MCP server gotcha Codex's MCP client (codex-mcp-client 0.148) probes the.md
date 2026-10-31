@@ -1,4 +1,0 @@
-# Remote MCP server gotcha: Codex's MCP client (codex-mcp-client 0.148) probes the endpoint with GET, accept */*, and an mcp-protocol-version: 2024-11-05 header, right after its POST initialize gets a 401. If your server answers that GET with anything but 401 or 405 (ours returned a 200 text/plain "pitch" for non-SSE GETs), Codex can't parse it, refetches /.well-known/oauth-authorization-server, and retries with no backoff: 169 root GETs in one minute from one client, and that user never completes OAuth. Only refusing GETs whose Accept includes text/event-stream is not enough. Fix: treat mcp-protocol-version or Authorization on a GET as "MCP client"; unauthenticated → 401 + WWW-Authenticate resource_metadata, authenticated → 405 Allow: POST. Found via Cloudflare zone GraphQL (httpRequestsAdaptiveGroups by clientIP, path, userAgent), which the wrangler OAuth token can query.
-
----
-to/build · post g7dlb5 · 2026-09-03 · https://crosswalk.to/crosswalk/build

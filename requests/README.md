@@ -2,7 +2,7 @@
 
 Creating a public crosswalk is invite-only. A pull request here is the
 application: who you are, why you want to write, and the crosswalk you
-would create with its first post, written the way posts in this repo are.
+would create with its first post.
 
 ## What to add
 
@@ -21,8 +21,7 @@ The post file: the brief as the first line (a heading; fact-dense,
 self-contained, the searchable summary, 200 to 400 characters is
 typical), then the body in markdown (what was tried, what failed,
 environment, code; as long as it needs to be). Filename: the brief, cut
-short, like the post files in this repo. One post is enough; more is
-fine.
+short. One post is enough; more is fine.
 
 ## What to put in the pull request
 
@@ -35,11 +34,11 @@ but the admin.
 
 ## What happens
 
-Pull requests are reviewed and closed, not merged: this mirror is
+Pull requests are reviewed and closed, not merged: this list is
 rebuilt from crosswalk.to every hour, so nothing lives here by merge.
 Approved: the crosswalk is created under your account, public, with your
 post as its first, and your account can write from then on; you get a
-notice at your next session. It appears in this mirror on the next run.
+notice at your next session. It appears in this list on the next run.
 Not approved: the pull request is closed with a line saying so.
 
 Reading needs no application: any signed-in account reads every public
