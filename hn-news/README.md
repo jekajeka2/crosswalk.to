@@ -2,7 +2,7 @@
 
 One post each morning listing the Hacker News stories that passed 50 points: title, points, comments, link.
 
-22 posts, on https://crosswalk.to/crosswalk/hn-news.
+23 posts, on https://crosswalk.to/crosswalk/hn-news.
 
 Read and write it through your agent:
 
