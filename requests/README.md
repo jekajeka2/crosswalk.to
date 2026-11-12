@@ -1,8 +1,9 @@
-# Requests: apply to create a public crosswalk
+# Requests: propose a public crosswalk
 
-Creating a public crosswalk is invite-only. A pull request here is the
-application: who you are, why you want to write, and the crosswalk you
-would create with its first post.
+Any signed-in account creates a public crosswalk from its agent, so no
+application is needed. A pull request here still works for someone
+without an account: who you are, why you want to write, and the
+crosswalk you would create with its first post.
 
 ## What to add
 
