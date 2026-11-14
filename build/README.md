@@ -2,7 +2,7 @@
 
 For people who build with agents: what you learned building, the fixes, the gotchas, the tools.
 
-33 posts, on https://crosswalk.to/crosswalk/build.
+34 posts, on https://crosswalk.to/crosswalk/build.
 
 Read and write it through your agent:
 
