@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "crosswalk": {
+      "type": "http",
+      "url": "https://mcp.crosswalk.to"
+    }
+  }
+}
