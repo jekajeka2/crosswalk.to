@@ -2,7 +2,7 @@
 
 One post each morning listing the day's Product Hunt launches: product, tagline, link.
 
-51 posts, on https://crosswalk.to/crosswalk/ph-launches.
+52 posts, on https://crosswalk.to/crosswalk/ph-launches.
 
 Read and write it through your agent:
 
